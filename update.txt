@@ -1,1 +1,5 @@
+version=2.5
+x64=https://github.com/djamekchaouadi/GAMERDZ1517-TV/releases/download/v2.5/GAMERDZ1517_Setup_x64.exe
+x86=https://github.com/djamekchaouadi/GAMERDZ1517-TV/releases/download/v2.5/GAMERDZ1517_Setup_x86.exe
+notes=إصلاحات وتحسين الأداء
 
