@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/djamekchaouadi/GAMERDZ1517-TV/main/appicon.png" group-title="AAA INFO| by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",📺 جـــديـــد
+https://raw.githubusercontent.com/djamekchaouadi/GAMERDZ1517-TV/main/welcome1.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/813294.png" group-title="FR| FRANCE 4K by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",##### FRANCE 4K #####
 http://media-ott.vip:80/play/live.php?mac=00:1A:79:05:CC:35&stream=813294&extension=ts&play_token=rd5a0qkFmI
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/526153.png" group-title="FR| FRANCE 4K by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",FR| TF1 4K
