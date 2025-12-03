@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/djamekchaouadi/GAMERDZ1517-TV/main/appicon.png" group-title="123 SERVER INFO| by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",📺 NEW INFO ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/djamekchaouadi/GAMERDZ1517-TV/main/appicon.png" group-title="%123 SERVER INFO| by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",📺 NEW INFO ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷
 https://github.com/djamekchaouadi/GAMERDZ1517-TV/raw/refs/heads/main/welcome.mp4
+#EXTINF:-1 group-title="%100 ARAB CUP 2025Arabic | by gamerdz1517" tvg-logo="",Arabic Channels
+#EXTINF:-1 tvg-id="" tvg-name="ad sports" tvg-logo="" group-title="sports",ad sports
+http://faster4k.sytes.net:25461/faster4k/faster4k/1
 #EXTINF:-1 tvg-logo="" group-title="4K RELAX UHD 3840P by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",###### RELAX ᵁᴴᴰ 3840P ######
 http://liptvdug.me:80/play/live.php?mac=00:1A:79:08:EB:39&stream=1505577&extension=ts&play_token=hrl2mAPi3G
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503006.png" group-title="4K RELAX UHD 3840P by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",4K| RELAX MOROCCO ᵁᴴᴰ 3840P
