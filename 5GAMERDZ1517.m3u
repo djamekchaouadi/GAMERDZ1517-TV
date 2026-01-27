@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OP NPO START/NPO Start.png" group-title="┃NL┃ OD NPO START by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃NL┃ NPO START FLIKKEN ROTTERDAM HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=1029476&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OP NPO START/NPO Start.png" group-title="┃1┃ TEST by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃1┃ CHANNEL TEST
+https://proxy.xtreamiptv.xyz/?id=985161&mac=00:1A:79:34:62:66
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OP NPO START/NPO Start.png" group-title="┃NL┃ OD NPO START by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃NL┃ NPO START FLIKKEN MAASTRICHT HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=1029455&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OP NPO START/NPO Start.png" group-title="┃NL┃ OD NPO START by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃NL┃ NPO START PENOZA HD
