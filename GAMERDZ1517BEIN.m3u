@@ -1,0 +1,789 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UCL┃ BEIN SPORTS 1 HD [AR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=894995&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UCL┃ BEIN SPORTS 2 HD [AR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=894996&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UCL┃ BEIN SPORTS 3 HD [AR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=894997&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",☰☰☰☰ ┃UK┃ BEIN SPORTS EN LIVE ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313532&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 1 EN FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313533&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 2 EN FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313534&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 1 EN FHD HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313535&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 2 EN FHD HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313536&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 1 EN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313537&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 2 EN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313538&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 1 EN SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313539&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 2 EN SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313540&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ ☰☰☰☰ ┃UK┃ BEIN SPORTS EN 4K (MATCH TIME) ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313541&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 1 4K EN FHD (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313559&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ EIN SPORTS 2 4K EN FHD (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313560&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 1 4K EN HEVC FHD (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313561&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 2 4K EN HEVC FHD (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313562&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 1 4K EN HD (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313563&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 2 4K EN HD (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313564&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 1 4K EN SD (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313565&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 2 4K EN SD (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313566&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ ☰☰☰☰ ┃UK┃ BEIN SPORTS EN UHD (MATCH TIME) ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313550&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 1 UHD EN FHD (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313567&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 2 UHD EN FHD (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313568&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 1 UHD EN HEVC (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313569&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 2 UHD EN HEVC (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313570&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 1 UHD EN HD (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313571&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 2 UHD EN HD (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313572&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 1 UHD EN SD (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313573&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃UK┃ BEIN SPORTS 2 UHD EN SD (MATCH TIME)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1313574&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941417&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941418&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941419&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941420&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941421&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941422&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941423&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941424&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941425&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS MAX 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS MAX 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941426&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS MAX 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS MAX 5 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941427&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS MAX 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS MAX 6 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941428&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS MAX 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS MAX 7 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941429&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS MAX 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS MAX 8 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941430&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS MAX 9.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS MAX 9 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941431&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS MAX 10.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS MAX 10 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=941432&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/bein sports hd.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃USA┃ BEIN SPORTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=858543&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/bein sports hd.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃USA┃ BEIN SPORTS HD [ESPANOL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=858541&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/bein sports la liga hd.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃USA┃ BEIN SPORTS LA LIGA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=858540&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/bein sports xtra hd.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃USA┃ BEIN SPORTS XTRA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=858542&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/bein sports 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃USA┃ BEIN SPORTS 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=858592&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/bein sports 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃USA┃ BEIN SPORTS 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=858591&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/bein sports 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃USA┃ BEIN SPORTS 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=858590&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/bein sports 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃USA┃ BEIN SPORTS 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=858589&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/bein sports 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃USA┃ BEIN SPORTS 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=858588&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/USA LATIN/BEIN SPORTS CONNECT LALIGA.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃USA┃ LATIN BEIN SPORTS CONNECT LALIGA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=935033&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/USA LATIN/BEIN_Sports_LATIN.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃USA┃ LATIN BEIN_Sports_LATIN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=935094&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃USA┃ 24/7 | BEING MARY JANE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1396644&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/BET+/BET+.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃USA┃ 24/7 | BEING TERRY KENNEDY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1002422&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRALIA/AU AUSTRALIA LOGOS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AU┃ BEIN SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=944685&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRALIA/AU AUSTRALIA LOGOS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AU┃ BEIN SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=944686&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRALIA/AU AUSTRALIA LOGOS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AU┃ BEIN SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=944687&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SERIES 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1471673&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SERIES 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1471674&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SERIES 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1471675&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SERIES 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1471676&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN MOVIES PREMIERE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1471678&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN MOVIES PREMIERE 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1471679&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN MOVIES ACTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1471677&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN MOVIES STARS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1471680&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN MOVIES TURK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1471681&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN BOX OFFICE 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1471698&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN BOX OFFICE 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1471699&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN BOX OFFICE 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1471700&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ PREMIUM BEIN SERIES 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1472112&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ PREMIUM BEIN SERIES 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1472113&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ PREMIUM BEIN SERIES 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1472114&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRBEINBOXOFFICE.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN BOX OFFICE 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=197154&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRBEINBOXOFFICE.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN BOX OFFICE 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=197153&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRBEINBOXOFFICE.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN BOX OFFICE 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=197152&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BeIN_MOVIES_Premiere.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN MOVIES PREMIERE 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=197143&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BeIN_MOVIES_Premiere.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN MOVIES PREMIERE 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=197142&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINENTERTAINMENT/bein-movies-183472.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN MOVIES STARS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=197149&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINENTERTAINMENT/bein-movies-183472.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN MOVIES TURK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=197155&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BeIN_SERIES.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SERIES 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=197146&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BeIN_SERIES.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SERIES 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=197148&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/BEINSERIES.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SERIES 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=197151&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BeIN_SERIES.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SERIES 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=197150&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMA 247/SINEMA 247.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ DREAM BEIN OFFE 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=724806&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMA 247/SINEMA 247.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ DREAM BEIN OFFE 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=724805&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMA 247/SINEMA 247.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ DREAM BEIN OFFE 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=724804&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMA 247/SINEMA 247.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ DREAM BEIN OFFE 4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=724803&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMA 247/SINEMA 247.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ DREAM BEIN OFFE 5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=724802&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMA 247/SINEMA 247.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ DREAM BEIN OFFE 6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=724801&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMA 247/SINEMA 247.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ DREAM BEIN OFFE 7
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=724800&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMA 247/SINEMA 247.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ DREAM BEIN OFFE 8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=724799&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMA 247/SINEMA 247.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ DREAM BEIN OFFE 9
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=724798&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMA 247/SINEMA 247.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ DREAM BEIN OFFE 10
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=724797&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS HABER.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS HABER FHD HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988864&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS HABER.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS HABER FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988865&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS HABER.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS HABER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988866&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 1 FHD HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988849&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988850&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 1 HD HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988851&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988852&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988853&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988854&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988855&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988856&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988857&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988858&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988859&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 5 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988860&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988861&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS MAX 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS MAX 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988862&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS MAX 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS MAX 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988863&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988867&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988874&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988881&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988868&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988875&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988882&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988869&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988876&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988883&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988870&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988877&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988884&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 5 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988871&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988878&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988885&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS MAX 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS MAX 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988872&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS MAX 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS MAX 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988879&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS MAX 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS MAX 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988873&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS MAX 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS MAX 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988880&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS FEED 1 FHD (MAÇ ZAMANI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=988886&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS HABER.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS HABER 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=756&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 4K (MAÇ ZAMANI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=619686&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 1 8K (MAÇ ZAMANI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=755&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 2 8K (MAÇ ZAMANI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=754&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 3 8K (MAÇ ZAMANI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=753&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 4 8K (MAÇ ZAMANI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=752&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 5 8K (MAÇ ZAMANI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=493699&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/PAKET BEIN SPORTS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",☰☰☰☰ ┃TR┃ PAKET BEIN SPORTS FHD HEVC ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=751&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS HABER.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS HABER 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=206320&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=750&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 2 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=749&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 3 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=748&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 4 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=747&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 5 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=214064&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS MAX 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS MAX 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=206321&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS MAX 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS MAX 2 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=206322&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/PAKET BEIN SPORTS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",☰☰☰☰ ┃TR┃ PAKET BEIN SPORTS HD ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=746&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS HABER.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS HABER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=745&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=744&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=743&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=742&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=741&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=214065&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS MAX 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS MAX 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=740&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS MAX 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS MAX 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=739&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN SPORTS 5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=214066&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN CONNECT.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN CONNECT 1 HD (MAÇ ZAMANI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=793282&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN CONNECT.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN CONNECT 2 HD (MAÇ ZAMANI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=793283&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN CONNECT.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN CONNECT 3 HD (MAÇ ZAMANI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=793284&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN CONNECT.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN CONNECT 4 HD (MAÇ ZAMANI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=793285&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN CONNECT.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN CONNECT 5 HD (MAÇ ZAMANI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=793286&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN CONNECT.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN CONNECT 6 HD (MAÇ ZAMANI)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=793287&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Bein_gurme.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN GURME HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=197426&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BeIN_iZ_HD.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃TR┃ BEIN IZ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=197425&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN PREMIERE.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN PREMIERE 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444290&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN PREMIERE.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN PREMIERE 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444291&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN PREMIERE.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN PREMIERE 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444289&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN ACTION.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN ACTION 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444267&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN ACTION.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN ACTION 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444268&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN ACTION.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN ACTION 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444269&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN COMEDY.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN COMEDY 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444282&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN COMEDY.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN COMEDY 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444277&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN COMEDY.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN COMEDY 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444276&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN DRAMA.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN DRAMA 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444272&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN DRAMA.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN DRAMA 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444283&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN DRAMA.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN DRAMA 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444284&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN HORROR.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN HORROR 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444285&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN HORROR.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN HORROR 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444293&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN HORROR.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN HORROR 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444292&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN WESTERN.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN WESTERN 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444288&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN WESTERN.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN WESTERN 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444287&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN WESTERN.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN WESTERN 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444286&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN CHRISTMASS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN CHRISTMASS 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444279&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN CHRISTMASS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN CHRISTMASS 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444278&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN CHRISTMASS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN CHRISTMASS 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444281&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN ANIMATIE.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN ANIMATIE 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444270&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN ANIMATIE.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN ANIMATIE 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444271&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN ANIMATIE.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN ANIMATIE 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444280&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN DOKU.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN DOKU 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444275&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN DOKU.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN DOKU 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444274&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ BEIN FILME/BEIN DOKU.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃RO┃ BEIN DOKU 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1444273&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 XTRA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030225&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 XTRA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030226&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 XTRA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030227&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 4 XTRA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030228&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 5 XTRA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030229&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 6 XTRA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030230&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 7 XTRA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030231&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 8 XTRA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030232&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 9.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 9 XTRA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030233&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798772&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798773&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798788&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 4 UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798789&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 5 UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798790&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 6 UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798791&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 7 UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798792&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 8 UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798793&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 9 UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798794&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798795&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798796&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798797&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 4 HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798798&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 5 HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798799&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 6 HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798800&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 7 HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798802&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 8 HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798804&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 9 HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798805&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS NEWS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS NEWS RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030234&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS GLOBAL.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS GLOBAL RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030235&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030236&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030237&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030238&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 4 RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030239&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 5 RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030240&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 6 RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030241&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 7 RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030242&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 8 RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030243&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 9.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 9 RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030244&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 1 ENGLISH.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 ENGLISH RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030245&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2 ENGLISH.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 ENGLISH RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030246&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 1 FRANCE.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 FRANCE RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030247&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 2 FRANCE.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 FRANCE RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030248&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 3 FRANCE.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 FRANCE RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1030249&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS AFC.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS AFC 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242286&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS AFC.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS AFC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242285&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS AFC.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS AFC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242284&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS AFC 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242271&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS AFC 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242270&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 AFC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242269&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 AFC 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242258&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 AFC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242257&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 AFC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242256&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 AFC 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242245&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 AFC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242244&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 AFC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242243&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS AFC 4 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=794422&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS AFC 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=794423&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS AFC 4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=794424&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS AFC 5 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=794425&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS AFC 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=794426&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS AFC 5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=794427&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS NEWS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS NEWS 8K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242273&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS NEWS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS NEWS 8K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985044&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS GLOBAL.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS GLOBAL 8K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242272&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS GLOBAL.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS GLOBAL 8K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985043&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 8K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242283&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 8K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985045&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 8K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242282&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 8K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985046&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 8K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242281&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 8K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985047&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 4 8K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242280&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 4 8K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985048&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 5 8K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242279&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 5 8K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985049&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 6 8K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242278&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 6 8K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985050&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 7 8K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242277&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 7 8K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985051&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 8 8K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242276&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 8 8K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985052&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 9 8K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242275&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 9 8K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985053&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS NEWS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS NEWS 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242288&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS NEWS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS NEWS 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985126&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS GLOBAL.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS GLOBAL 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242287&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS GLOBAL.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS GLOBAL 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985125&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242268&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985127&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985136&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242267&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985128&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985137&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242266&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985129&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985138&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 4 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242265&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 4 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985130&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 4 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985139&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 5 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242264&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 5 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985131&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 5 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985140&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 6 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242263&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 6 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985132&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 6 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985141&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 7 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242262&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 7 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985133&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 7 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985142&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 8 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242261&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 8 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985134&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 8 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985143&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 9 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242260&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 9 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985135&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 9 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985144&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS NEWS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS NEWS HD S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985171&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS GLOBAL.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS GLOBAL HD S2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985170&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242255&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985161&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242254&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985162&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242253&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985163&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 4 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242252&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 4 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985164&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 5 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242251&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 5 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985165&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 6 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242250&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 6 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985166&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 7 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242249&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 7 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985167&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 8 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242248&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 8 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985168&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 9 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242247&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 9 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985169&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS NEWS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS NEWS SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985187&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS GLOBAL.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS GLOBAL SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985186&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798828&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985188&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798829&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985189&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798830&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985190&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 4 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798831&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 4 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985191&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 5 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798833&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 5 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985192&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 6 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798834&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 6 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985193&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 7 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798835&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 7 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985194&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 8 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798837&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 8 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985195&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 9 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=798838&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 9 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=985196&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242242&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242241&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242240&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242239&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242238&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242237&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 7
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242236&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242235&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SPORTS 9
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=242234&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRBEINBOXOFFICE.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN STAR LIFE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=368989&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINENTERTAINMENT/bein-movies-183472.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN MOVIES PREMIERE 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=369003&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINENTERTAINMENT/bein-movies-183472.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN MOVIES ACTION 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=369002&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINENTERTAINMENT/bein-movies-183472.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN MOVIES DRAMA 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=369001&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINENTERTAINMENT/bein-movies-183472.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN MOVIES 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=369000&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINENTERTAINMENT/bein-movies-183472.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SERIES 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=368999&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINENTERTAINMENT/bein-movies-183472.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN SERIES 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=368998&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINENTERTAINMENT/bein-movies-183472.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN DRAMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=368997&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINENTERTAINMENT/bein-movies-183472.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN GOURMET HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=368996&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINENTERTAINMENT/beinkids.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN FATAFEAT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=368995&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/KIDS/BEINKIDS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AR┃ BEIN BABY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=661064&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/CANAL+ AFRICA/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AF┃ BEIN SPORTS 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=958741&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/CANAL+ AFRICA/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AF┃ BEIN SPORTS 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=958742&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/CANAL+ AFRICA/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃AF┃ BEIN SPORTS 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=958743&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃ID┃ BEIN SPORTS 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1058868&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/BEIN SPORTS 1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃ID┃ BEIN SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1058937&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃ID┃ BEIN SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1058938&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃ID┃ BEIN SPORTS 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1058869&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃ID┃ BEIN SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1058939&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃ID┃ BEIN SPORTS 4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1058870&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃ID┃ BEIN SPORTS 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1058940&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃ID┃ BEIN SPORTS 5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1058871&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/BEIN SPORTS 5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃ID┃ BEIN SPORTS 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=1058941&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/INDONESIA/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃ID┃ BEIN SPORTS 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=382970&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃MY┃ BEIN SPORTS 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=383051&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/BEIN SPORTS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃MY┃ BEIN SPORTS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=383045&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃MY┃ BEIN SPORTS 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=383044&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SINGAPORE/BEIN SPORTS.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃SG┃ BEIN SPORTS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=383543&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SINGAPORE/BEIN SPORTS 2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃SG┃ BEIN SPORTS 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=383542&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SINGAPORE/BEIN SPORTS 3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃SG┃ BEIN SPORTS 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=383544&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SINGAPORE/BEIN SPORTS 4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃SG┃ BEIN SPORTS 4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=383545&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/BEIN SPORTS 1 HD.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃PH┃ BEIN SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=901323&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/BEIN SPORTS 2 HD.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃PH┃ BEIN SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=901322&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/BEIN SPORTS 3 HD.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃PH┃ BEIN SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:79:06:92&stream=901321&extension=ts
