@@ -1,0 +1,411 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/814945.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",##### BEIN SPORTS LQ #####
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=814945&extension=ts&play_token=1nIatHcwSs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/507542.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",FR| BEIN SPORTS 1 LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=507542&extension=ts&play_token=BfpnkEeBkg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/507541.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",FR| BEIN SPORTS 2 LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=507541&extension=ts&play_token=nou5swckGu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/507540.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",FR| BEIN SPORTS 3 LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=507540&extension=ts&play_token=AOfe8B7ECR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PREMIURPLAY.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",##### HIGHLIGHTS BEIN OD #####
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=689119&extension=ts&play_token=bBBgxMPxUO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PREMIURPLAY.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",##### HIGHLIGHTS BEIN OD ENF #####
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=689098&extension=ts&play_token=AEHTM7ASVD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454204.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS AFC SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1454204&extension=ts&play_token=aUrv4SVgKB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454201.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS AFC 1 SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1454201&extension=ts&play_token=H3KGE5sgVw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454198.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS AFC 2 SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1454198&extension=ts&play_token=6OyFfjNazU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454195.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS AFC 3 SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1454195&extension=ts&play_token=9Mm7j6RzJk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454192.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS AFC 4 SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1454192&extension=ts&play_token=joi1F8SR0a
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1454189.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS AFC 5 SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1454189&extension=ts&play_token=3XXXO6rb6r
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294788.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",##### BEIN SPORTS HEVC #####
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1294788&extension=ts&play_token=f6BMOEi3IQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330433.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 1 HEVC
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330433&extension=ts&play_token=ep69HYHfkM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330432.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 2 HEVC
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330432&extension=ts&play_token=6X4M8ZyLad
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330431.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 3 HEVC
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330431&extension=ts&play_token=IvmZ1zYeR8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330430.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 4 HEVC
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330430&extension=ts&play_token=3z6V4pxObb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330429.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 5 HEVC
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330429&extension=ts&play_token=CGhvBx5CI3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330428.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 6 HEVC
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330428&extension=ts&play_token=tWD5AF9TKx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330427.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 7 HEVC
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330427&extension=ts&play_token=Bq0giiWtWo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330426.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 8 HEVC
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330426&extension=ts&play_token=4NT8yBzeVa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330425.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 9 HEVC
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330425&extension=ts&play_token=kBg8vRl5e1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330424.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 1 XTRA HEVC
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330424&extension=ts&play_token=rXRsZUFG2p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330423.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 2 XTRA HEVC
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330423&extension=ts&play_token=zMJccJPju8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330422.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 3 XTRA HEVC
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330422&extension=ts&play_token=xbVNaSHbA7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330421.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 1 ENGLISH HEVC
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330421&extension=ts&play_token=ur70ZeJeog
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330420.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 2 ENGLISH HEVC
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330420&extension=ts&play_token=4vkQN3FkRK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330486.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",##### BEIN SPORTS LQ #####
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330486&extension=ts&play_token=AuQR6KTra4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330471.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS NEWS LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330471&extension=ts&play_token=D7S7dy6pmT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330472.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS GLOBAL LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330472&extension=ts&play_token=M06TF0TUyS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330474.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 1 LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330474&extension=ts&play_token=ixAU5p38Bq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330475.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 2 LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330475&extension=ts&play_token=d4XBnWevKb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330476.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 3 LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330476&extension=ts&play_token=HQWBf11FIN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330477.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 4 LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330477&extension=ts&play_token=HnZQIOBUui
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330478.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 5 LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330478&extension=ts&play_token=l3oZNl2QRM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330479.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 6 LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330479&extension=ts&play_token=CpmZhUlPAX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330480.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 7 LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330480&extension=ts&play_token=0jZRWwEJM8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330481.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 8 LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330481&extension=ts&play_token=7Av5TpnHLf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330482.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 9 LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330482&extension=ts&play_token=3fk2oSEXWq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330483.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 1 XTRA LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330483&extension=ts&play_token=b2O1meQ0Ji
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330484.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 2 XTRA LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330484&extension=ts&play_token=FFW5eKfNHP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330485.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 3 XTRA LQ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330485&extension=ts&play_token=7lzRRGG2ZY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1294856.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",##### BEIN SPORTS SD #####
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1294856&extension=ts&play_token=YLr2H948Fq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| TOD 360 SD ( EVENT ONLY )
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1347224&extension=ts&play_token=ZH75kzugwt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330455.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS NEWS SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330455&extension=ts&play_token=TbNHEhYZQD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330456.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS GLOBAL SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330456&extension=ts&play_token=qEEtmG7s66
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330457.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 1 SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330457&extension=ts&play_token=K4f7f9TNZX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330458.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 2 SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330458&extension=ts&play_token=852grHdtA3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330459.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 3 SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330459&extension=ts&play_token=isT1Jc0VsL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330460.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 4 SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330460&extension=ts&play_token=VCSmZ492A5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330461.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 5 SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330461&extension=ts&play_token=z1XaGJUCCC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330462.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 6 SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330462&extension=ts&play_token=YbUqMXIgVc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330463.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 7 SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330463&extension=ts&play_token=KVaBOweh2g
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330464.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 8 SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330464&extension=ts&play_token=N73XTYprL7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330465.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 9 SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330465&extension=ts&play_token=jMUtAJ26r9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330466.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 1 XTRA SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330466&extension=ts&play_token=6TGohDqCC3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330467.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 2 XTRA SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330467&extension=ts&play_token=6ANexY5jws
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330468.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 3 XTRA SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330468&extension=ts&play_token=eVA9AoSITr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330469.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 1 ENGLISH SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330469&extension=ts&play_token=aDXGRxcVoL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330470.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 2 ENGLISH SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1330470&extension=ts&play_token=dHib3Y4xnX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411374.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS1 Gᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1411374&extension=ts&play_token=IokrfveNuB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411373.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS2 Gᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1411373&extension=ts&play_token=Gfai5h8FQD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411372.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS3 Gᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1411372&extension=ts&play_token=6yycyMaxmE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411371.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS4 Gᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1411371&extension=ts&play_token=QTpEJfNIYx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411370.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS5 Gᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1411370&extension=ts&play_token=O7KONXWDJT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411369.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS6 Gᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1411369&extension=ts&play_token=xq9dchdgA9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411368.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS7 Gᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1411368&extension=ts&play_token=wlbnbWkzfU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411367.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS8 Gᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1411367&extension=ts&play_token=EzRPmTPWmM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1411366.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS9 Gᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1411366&extension=ts&play_token=GOrkC6rJuz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363480.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 1ᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1363480&extension=ts&play_token=iI9UYCvx5A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363481.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 2ᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1363481&extension=ts&play_token=KUyTf3GjT7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363482.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 3ᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1363482&extension=ts&play_token=WdWqBkQ6y3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363483.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 4ᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1363483&extension=ts&play_token=Vzue1RQzP0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363484.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 5ᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1363484&extension=ts&play_token=VME1VFFSrC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363485.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 6ᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1363485&extension=ts&play_token=UYp8Cng9hX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363486.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 7ᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1363486&extension=ts&play_token=danrVsDYBb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363487.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 8ᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1363487&extension=ts&play_token=sSwXyk3qdl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363488.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 9ᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1363488&extension=ts&play_token=BB8Qxf3glz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363489.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS AFCᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1363489&extension=ts&play_token=zIXVV1wAs1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363490.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 1 AFCᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1363490&extension=ts&play_token=Vsv6c0Ozd2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363491.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS 2 AFCᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1363491&extension=ts&play_token=0EAofxgE3o
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363492.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS XTRA 1ᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1363492&extension=ts&play_token=k7Mf1c7P06
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363493.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS XTRA 2ᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1363493&extension=ts&play_token=8L7e6J72Op
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1363494.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS XTRA 3ᵁᴴᴰ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1363494&extension=ts&play_token=i3M5Z0iULa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660414.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 1 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660414&extension=ts&play_token=Uljb75Jupb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660412.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 2 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660412&extension=ts&play_token=KRoNHjZZba
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660410.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 3 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660410&extension=ts&play_token=Swmxt5JHrv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660408.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 4 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660408&extension=ts&play_token=M2NgQep8Xf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660406.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 5 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660406&extension=ts&play_token=38HtfQYYsq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660404.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 6 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660404&extension=ts&play_token=Bb20FQ0sQc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660402.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 7 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660402&extension=ts&play_token=Dn7OnX1OdY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660400.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 8 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660400&extension=ts&play_token=l1XfpoXGPH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660398.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 9 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660398&extension=ts&play_token=9c93W0q92G
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660396.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS ENGLISH 1 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660396&extension=ts&play_token=llhcZFwV84
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660394.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS ENGLISH 2 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660394&extension=ts&play_token=SpkdcK806Q
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660386.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS  AFC 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660386&extension=ts&play_token=yYjI7EwCN5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660383.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS AFC 1 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660383&extension=ts&play_token=2tOCh88ZHU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660381.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS AFC 2 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660381&extension=ts&play_token=qwfJ8zOhWl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660379.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS AFC 3 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660379&extension=ts&play_token=Z3qWqrAhte
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836244.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1836244&extension=ts&play_token=CQC7R4X7p6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660413.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 1 480
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660413&extension=ts&play_token=lMkRXUEA7B
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660411.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 2 480
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660411&extension=ts&play_token=skHaI0Xipq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660409.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 3 480
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660409&extension=ts&play_token=mDPiBjAtJQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660407.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 4 480
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660407&extension=ts&play_token=UgCuvPF5nc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660405.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 5 480
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660405&extension=ts&play_token=IRS4bKxiYE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660403.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 6 480
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660403&extension=ts&play_token=ezIKecXa2p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660401.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 7 480
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660401&extension=ts&play_token=fOnFg5O2vS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660399.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 8 480
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660399&extension=ts&play_token=lmh1F6xlyf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660397.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS 9 480
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660397&extension=ts&play_token=M7CFXRP7NL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660395.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS ENGLISH 1 480
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660395&extension=ts&play_token=G87MFHAnUo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660393.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS ENGLISH 2 480
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660393&extension=ts&play_token=mSyL5xdQz7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660385.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS  AFC 480
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660385&extension=ts&play_token=tOBGMDo2Ww
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836254.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS LOW 1
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1836254&extension=ts&play_token=mhlhjWMxhT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836253.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS LOW 2
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1836253&extension=ts&play_token=LTJRkHjQNN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836252.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS LOW 3
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1836252&extension=ts&play_token=FyHw8QdOHq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836251.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS LOW 4
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1836251&extension=ts&play_token=dDllLUA8rv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836250.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS LOW 5
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1836250&extension=ts&play_token=tSuqW6zyza
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836249.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS LOW 6
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1836249&extension=ts&play_token=ds25JVLUmh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836248.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS LOW 8
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1836248&extension=ts&play_token=d6UpUUQef5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836247.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS LOW 9
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1836247&extension=ts&play_token=K3ANWTZ2RQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836246.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS LOW 7
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1836246&extension=ts&play_token=6LeKszn4uW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660391.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS XTRA 1 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660391&extension=ts&play_token=6GXk7Xn1qv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836243.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS XTRA 1 480
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1836243&extension=ts&play_token=2JmH6svgy6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660387.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS XTRA 2 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660387&extension=ts&play_token=Nr5sIGdQY0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1836242.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS XTRA 2 480
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1836242&extension=ts&play_token=KVhAO4Ysi6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1660388.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN SPORTS XTRA 3 720
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1660388&extension=ts&play_token=YYdxF2HSyz
+#EXTINF:-1 tvg-logo="" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",##### BEIN ENTERTAINMANT #####
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1141584&extension=ts&play_token=CQA9ryju8n
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1141574.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN FATAFEET
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1141574&extension=ts&play_token=Bn6jjpWMJO
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1141558.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| BEIN BARAEM KIDS
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1141558&extension=ts&play_token=u8FhD4HOvQ
+#EXTINF:-1 tvg-logo="" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",##### BEIN OD #####
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=671293&extension=ts&play_token=RPlnXIz4J4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/UK.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",##### BEIN SPORTS #####
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=238271&extension=ts&play_token=BQfadUdP0u
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735946.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",UK| BEIN SPORTS 1 EN SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=735946&extension=ts&play_token=S9Ao8pXQCx
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735945.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",UK| BEIN SPORTS 2 EN SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=735945&extension=ts&play_token=RoVm89yff2
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/735944.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",UK| BEIN SPORTS 3 EN SD
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=735944&extension=ts&play_token=RgTo2fDVbc
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1348093.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",UK| BEIN SPORTS AU 1
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1348093&extension=ts&play_token=xv0yeY4dPx
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1348102.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",UK| BEIN SPORTS AU 2
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1348102&extension=ts&play_token=nAaF1nqMCC
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1348103.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",UK| BEIN SPORTS AU 3
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1348103&extension=ts&play_token=wPJxb8RBSH
+#EXTINF:-1 tvg-logo="" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",##### BEIN SPORTS ASIA #####
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=923433&extension=ts&play_token=maoktOIWLY
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/923432.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",UK| BEIN SPORTS ASIA 1
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=923432&extension=ts&play_token=xgb5LhzrSe
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/923431.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",UK| UK| BEIN SPORTS ASIA 2
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=923431&extension=ts&play_token=MM0gjnygsb
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/923430.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",UK| UK| BEIN SPORTS ASIA 3
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=923430&extension=ts&play_token=YL0j8n0m0y
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1920426.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",PRIME| BEIN SPORTS EXTRA EN ESPAÑOL ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1920426&extension=ts&play_token=0wJe112Xcm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1920425.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",PRIME| BEIN SPORTS XTRA ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1920425&extension=ts&play_token=Q97wuHwdsI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1931159.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",GO| BEIN SPORTS XTRA
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1931159&extension=ts&play_token=NjALEnuCzD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1924336.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",TUBI| BEIN SPORTS XTRA EN ESPAÑOL ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1924336&extension=ts&play_token=6ul01tGTbM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1952003&extension=ts&play_token=fFGsdPgKDD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1952002&extension=ts&play_token=hH5XoOxJSJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS CONNECT 3 ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1952001&extension=ts&play_token=YhUWLcRXGs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS CONNECT 3 ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1952000&extension=ts&play_token=pkgPxB0XWy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS CONNECT 4 ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1951999&extension=ts&play_token=xaGqyOTAW5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS CONNECT 4 ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1951998&extension=ts&play_token=esK7Js8289
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS CONNECT 5 ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1951997&extension=ts&play_token=RvOm7uQ72K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS CONNECT 5 ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1951996&extension=ts&play_token=vlsx9hYuVn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS CONNECT 6 ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1951995&extension=ts&play_token=3ZBZIDyBBE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS CONNECT 6 ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1951994&extension=ts&play_token=seoXjB6Gaz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS CONNECT 7 ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1951993&extension=ts&play_token=GRx2HFvnlM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS CONNECT 7 ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1951992&extension=ts&play_token=pLnPHHg1sU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS CONNECT 8 ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1951991&extension=ts&play_token=uuz7y7SJGG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS CONNECT 8 ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1951990&extension=ts&play_token=p8YWLkTgM1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS EN ESPAÃ±OL ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1951989&extension=ts&play_token=nHngmIBSBy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS EN ESPAÃ±OL ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1951988&extension=ts&play_token=QMAdf7mIGX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS XTRA ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1951987&extension=ts&play_token=dnpfYKabZI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/SLING.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SLING| BEIN SPORTS XTRA ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1951986&extension=ts&play_token=qLqiP7tagq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/FLOSPORTS.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",Otterbein Tri Match @ Jan 30 5:50 PM :Flo College  43
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1881667&extension=ts&play_token=fvjNMRUewz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",(FLSP 138) | flohoops: 2026 Otterbein vs Marietta _ Men`s (Otterbein vs Marietta) (2026-02-04 18:50:20)
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1961128&extension=ts&play_token=iYmSE5uvGH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",(FLSP 140) | flohoops: 2026 Marietta vs Otterbein _ Women`s (Marietta vs Otterbein) (2026-02-04 18:50:30)
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1961126&extension=ts&play_token=BCrYVVTF9I
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",US (Flo 399) | [Volleyball|2025 Otterbein vs Case Western Reserve _ Women`s] (2025-11-01 15:01:10)
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1960863&extension=ts&play_token=PH13B14omu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",24/7 BEING MARY JANE
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1942787&extension=ts&play_token=5cyZXWwLVl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",24/7 HOW TO SURVIVE BEING SINGLE
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1942638&extension=ts&play_token=mQjnmiqzWs
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/75282.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LAT| BEIN SPORTS N
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=75282&extension=ts&play_token=p8Z3unFoEu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965449.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",VIX| BEIN SPORTS XTRA ᴿᴬᵂ
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1965449&extension=ts&play_token=quDOroFMX7
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1461302.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",VIX| BEIN SPORTS XTRA 
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1461302&extension=ts&play_token=Ryc4WDnoWa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1925951.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",TR| BEIN IZ TV
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1925951&extension=ts&play_token=th7aMj5afL
+#EXTINF:-1 tvg-logo="" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",##### TR BEIN SPOR #####
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=913462&extension=ts&play_token=em3VA5Nubg
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913460.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",TR| BEIN SPORTS 1
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=913460&extension=ts&play_token=nBLUmhry3X
+#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",TR| BEIN SPORTS 2
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=913455&extension=ts&play_token=HlnK6Ekd2e
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyGjZeBwl4cUls9ob72i8po_JOEvbhTEgxSQHiaI8uROaNw2oJmznq5hsU6XVpBV7j92Evxg30THqBI4ypyE1g6E.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",HK| BEIN SPORTS 1 638
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1903738&extension=ts&play_token=nDw7HjHA4E
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyPPW_xb4NLYgN9gbjuoUzOHidlfgQAkuf01-UM-HADDyxi1BGWJhk0Ek2358HB9s5zaAjZVTsi_iJGT2QbFR34g.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",HK| BEIN SPORTS 2 639
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1903737&extension=ts&play_token=rOWJbU1pe4
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyJjBT1nKQu0FLh8Y7aQ1GWbTPdzdfwyAT-e_WZPXRafvpMfXlZz7e87cqot2EFN9eQhJqM-LnOKH3DcKBI3wShI.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",HK| BEIN SPORTS 3 643
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1903736&extension=ts&play_token=X2vHUgf6W8
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyHJ4egW7LWW_jrfCKhYBEPagkRCtKpUTSfQdx-M4KXQ03jKbNLLayonVICuwvnktmm6VRqlgxOiMogrcM4C4-tw.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",HK| BEIN SPORTS 4 644
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1903735&extension=ts&play_token=W8rIHx4KFu
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyHinLQ2ljippHagH9RBStu8oG8mV9qZzUusxVa7PHGxGSzmRMxV4nvWkxvNQrbe9D7dTOK2F6qXMQxZvEdScH4U.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",HK| BEIN SPORTS 5 645
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1903734&extension=ts&play_token=U1uiucDYxh
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyJPmPdsqK87-6RtHhRYdEzDFlGSPA2EWvHKF2Ujp0zzoIoggCPkpnxNjMhBbu8KrNAlZwusdZT0OpEGrunveOrk.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",HK| BEIN SPORTS 6 646
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1903733&extension=ts&play_token=8t4gZD8sUI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/683139.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",ID| BEIN SPORTS 1
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=683139&extension=ts&play_token=yryOkz36pd
+#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",ID| BEIN SPORTS 2
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=683138&extension=ts&play_token=B3rV6TL4YO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1919472.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",V+| BEIN SPORTS
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1919472&extension=ts&play_token=JqrgwvQTeq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1919471.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",V+| BEIN SPORTS 2
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1919471&extension=ts&play_token=bABBTwgFuY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1919470.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",V+| BEIN SPORTS 3
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1919470&extension=ts&play_token=EmpZRV2gnr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1919469.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",V+| BEIN SPORTS 4
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1919469&extension=ts&play_token=t9Ep2IYiOT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1919468.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",V+| BEIN SPORTS 5
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1919468&extension=ts&play_token=zFlsifnJiJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1919553.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",VD| BEIN 1
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1919553&extension=ts&play_token=TrEnnIpmWD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1919552.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",VD| BEIN 2
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1919552&extension=ts&play_token=sxRMbDLGyi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1919551.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",VD| BEIN 3
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1919551&extension=ts&play_token=o1Gcoulf3j
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRRFFMSrvMcM7DUhY5XrsHDqr5FThAU1kXHkS5Gt41SJlrLpPVHtXpLXIqACBaHgD1yNiUyLyvQBnt2pO1sIFuSLp-ssuuJi2SP4RFrz9f0z8.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SG| BEIN SPORTS 1
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1903757&extension=ts&play_token=34H5XA6JWd
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRRFFMSrvMcM7DUhY5XrsHDgLbbM8ovF0_gKuf9WJ0FcT5cDHsTsszVceVPiG0g4YtswuD5m4SHOw-4_44o8xFbKdA3dcE3rzr-fxhuZsYGFo.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SG| BEIN SPORTS 2
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1903756&extension=ts&play_token=Lk86PismnP
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRRFFMSrvMcM7DUhY5XrsHDvUb5L2KPVk7YoHVkWOtnzgiyzt09h5oLKujXZDoI6vZwSnhCd0YOs0o8o9LisC3rpBqOH0xYhX5lpnT_cJwKAU.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SG| BEIN SPORTS 3
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1903755&extension=ts&play_token=LMHT6OfBVl
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRRFFMSrvMcM7DUhY5XrsHDlc_IwoOsA3-N8H6Kp30ch2jyM63atm2Yyah977PBfy5RqSiy0IjwhmtTkRW35nd9J2ZXfc2h2G-yapp5kQlawI.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SG| BEIN SPORTS 4
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1903754&extension=ts&play_token=xc7oYI6TSI
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRRFFMSrvMcM7DUhY5XrsHDpzJFcn8iH3v7RA-i5TJqSlKdYZFowVUtLqBhWdpIc7y6Z1216LXCV0S139rO67xGC9R-DhKGjBqQ2geXqNnWT4.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",SG| BEIN SPORTS 5
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1903753&extension=ts&play_token=YRLA3rm6RJ
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvn6Gm0wVk3QxRihUfjzcbky6PUQ8A2jFRAZ5tO90bELVaQ731jJf_vCIGHbzjTg4Vsa2I2EEnrejSbGf4jJo8bE.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",MY| BEIN SPORTS
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1903783&extension=ts&play_token=SLWlTGf8c8
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvhTnz97-OJk7lgMYg0Pbjvqh3DMKFeV2oghHIyFu0zV4nHgyFOTSU65HmhRJztksqXUeb7ngHwHpNjfl-JC4Mjg.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",MY| BEIN SPORTS 2
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1903782&extension=ts&play_token=HdaRT6ccI3
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvkD3Fit9roaB7FBE26OdDVL4zSDL1CNjAG31E2CzNmQs2on2yfDKy9S17NRORVxSs8_V5rwtKBMDPY3nbwEn5no.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",MY| BEIN SPORTS 3
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=1903781&extension=ts&play_token=IYUmEp9xBI
+#EXTINF:-1 tvg-logo="http://103.176.90.95/picons/beinsportshd2.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",PH| BEIN SPORTS 2
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=926196&extension=ts&play_token=JZ6vtvYmSQ
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/926197.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",PH| BEIN SPORTS 1
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=926197&extension=ts&play_token=8Lt6SKAjR0
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/806718.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AFR| BEIN SPORTS 1
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=806718&extension=ts&play_token=hSMw9i1ZiX
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/806717.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AFR| BEIN SPORTS 2
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=806717&extension=ts&play_token=9Ub7GZcf0f
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/806716.png" group-title="BEIN SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AFR| BEIN SPORTS 3
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:BF:8D:CB&stream=806716&extension=ts&play_token=rrtBzFc4wC
