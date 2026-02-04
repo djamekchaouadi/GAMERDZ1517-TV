@@ -1,0 +1,1077 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ITALY.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",###### GENERALE HD/UHD ######
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602278&extension=ts&play_token=k7e8M1ZmSL
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rai1.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI 1 SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602275&extension=ts&play_token=z5socZkrsg
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rai1.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI 1 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602276&extension=ts&play_token=FlPvdOtFC5
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rai1.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI 1 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602277&extension=ts&play_token=dnvwFvbEuk
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rai2.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI 2 SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602272&extension=ts&play_token=uJTLTfQcKz
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rai2.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI 2 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602273&extension=ts&play_token=GpSPbT4rGg
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rai2.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI 2 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602274&extension=ts&play_token=52FdPbT8AG
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rai3.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI 3 SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602269&extension=ts&play_token=Xzt1iamLVE
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rai3.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI 3 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602270&extension=ts&play_token=b3EcUfqvJk
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rai3.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI 3 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602271&extension=ts&play_token=hUb2hG6cco
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rai4.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI 4 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602267&extension=ts&play_token=abHCqEAPpd
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rai4.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI 4 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602268&extension=ts&play_token=0hk2azng4u
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/rai5.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI 5 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602265&extension=ts&play_token=ZyyU8eT7b7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/rai5.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI 5 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602266&extension=ts&play_token=x2TiCQgDRl
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/raimovie.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI MOVIE HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602263&extension=ts&play_token=3H8BKY5nOp
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/raimovie.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI MOVIE UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602264&extension=ts&play_token=hOy72pD9Z4
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rainews24.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI NEWS 24 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602262&extension=ts&play_token=2yh7EFhtFp
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/raipremium.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI PREMIUM HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602260&extension=ts&play_token=rmUGBlmXn8
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/raipremium.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI PREMIUM UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602261&extension=ts&play_token=vSGbLEgFru
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/raiscuola.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI SCUOLA HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602258&extension=ts&play_token=qpt7RTZDYS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/raiscuola.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI SCUOLA UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602259&extension=ts&play_token=rVtfs64pEO
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/raistoria.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI STORIA HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602256&extension=ts&play_token=vUMfjQb3Wz
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/raistoria.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI STORIA UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602257&extension=ts&play_token=08KVdcLSTM
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/raiitalia.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI ITALIA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602255&extension=ts&play_token=XMBkI2b0p2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/RAIWORLD.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI WORLD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=924073&extension=ts&play_token=pXDwRpBCMR
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rds.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RDS TV
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602254&extension=ts&play_token=3WJnckIYWF
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/realitytv.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - REALITY TV
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602253&extension=ts&play_token=rAyTsTqgLo
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rete4.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RETE 4 SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602250&extension=ts&play_token=SnNQ27hmzT
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rete4.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RETE 4 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602251&extension=ts&play_token=nW0sVo46XL
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rete4.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RETE 4 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602252&extension=ts&play_token=iFAEtyS3Ix
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/la5.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - LA 5
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602249&extension=ts&play_token=bdKvykj6yO
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/la7.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - LA 7
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602248&extension=ts&play_token=xb5Il7GSWU
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/la7.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - LA 7 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602247&extension=ts&play_token=95uHaIz7Nh
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/la7d.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - LA 7D
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602246&extension=ts&play_token=f9LRQgRDc6
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/la7d.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - LA 7D UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602245&extension=ts&play_token=P80wVC9QM2
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/italia1.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ITALIA 1 SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601708&extension=ts&play_token=Sk0NADPJ3s
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/italia1.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ITALIA 1 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601709&extension=ts&play_token=b20nBKk4x5
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/italia1.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ITALIA 1 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601710&extension=ts&play_token=eeOIzzIzXv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/Italia2.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ITALIA 2
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602210&extension=ts&play_token=PuFWH6LPzq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/CANALE-20.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CANALE 20 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602243&extension=ts&play_token=NxmsvOmaqC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/CANALE-20.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CANALE 20 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602244&extension=ts&play_token=Sfk6WFP090
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/canale5.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CANALE 5 SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602240&extension=ts&play_token=AmIHjNBWDQ
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/canale5.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CANALE 5 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602241&extension=ts&play_token=3vqWta6vsH
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/canale5.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CANALE 5 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602242&extension=ts&play_token=zYOcsEjMNy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-REAL-TIME.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY REAL TIME UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602239&extension=ts&play_token=G6W6AZySrj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-RETE-7.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY RETE 7
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602238&extension=ts&play_token=BOMfTDQzaT
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skytg24.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY TG 24 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602236&extension=ts&play_token=STDxqDMzLZ
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skytg24.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY TG24 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602235&extension=ts&play_token=BLECA0AbBB
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyuno.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY UNO SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602232&extension=ts&play_token=f3CSuaW1Z0
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyuno.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY UNO HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602233&extension=ts&play_token=SNP9gPNx3r
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyuno.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY UNO UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602234&extension=ts&play_token=lzKM2Ry75b
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyunoplus1.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY UNO +1
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602231&extension=ts&play_token=spMCbUbU67
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/spike.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SPIKE
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602230&extension=ts&play_token=5hxNK2E371
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/fueltv.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - FUEL TV
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602229&extension=ts&play_token=CoxlluxnkK
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/failarmy.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - FAILARMY
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602228&extension=ts&play_token=28mipaoyTj
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/thepetcollective.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - THE PET COLLECTIVE
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602227&extension=ts&play_token=K3y7AuOIVP
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/spotlighttv.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SPOTLIGHT
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602226&extension=ts&play_token=aiUXLIC5cz
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/peopleareawesome.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - PEOPLE ARE AWESOME
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602225&extension=ts&play_token=busJ3ZLoeo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/A3-SERIES.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - A3SERIES
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602224&extension=ts&play_token=MhO1HdE9i1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/CANALE-EUROPA.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CANALE EUROPA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602223&extension=ts&play_token=qOVwzfLYJq
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/fashion.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - FASHION TV
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602222&extension=ts&play_token=vTRDdaY5Mt
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/byoblu.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - BYOBLU
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602220&extension=ts&play_token=0BYf4yLyxL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/SOFY.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SOFY.TV
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602219&extension=ts&play_token=pEmJBV2ZMs
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/raipremium.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI PREMIUM SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602218&extension=ts&play_token=WajtOVwXtj
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/alice.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ALICE
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602217&extension=ts&play_token=dngwbuSUVo
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/blaze.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - BLAZE SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602216&extension=ts&play_token=9yLR9k5JpG
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/cielo.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CIELO
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602215&extension=ts&play_token=8Rc7FZb7uH
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/cine34.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINE 34
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602214&extension=ts&play_token=a3TqOMaMhg
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/classtvmoda.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CLASS TV MODA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602213&extension=ts&play_token=vYgjzMAdeV
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/euronewsitalian.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EURONEWS ITALIAN
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602212&extension=ts&play_token=FLvklvxwep
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/iris.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - IRIS
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602211&extension=ts&play_token=TItgOeXfyt
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/italianfishingtv.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ITALIAN FISHING TV
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602209&extension=ts&play_token=Yu45dNQxd2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/MEDIAPRO-CHANNEL.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - MEDIAPRO CHANNEL
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602208&extension=ts&play_token=HEcjBPUgyR
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nasatv.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - NASA TV UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602206&extension=ts&play_token=4Q5mmxocar
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/mediasetitalia.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - MEDIASET ITALIA (NA)
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=777244&extension=ts&play_token=uPxf4zgIHm
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/mediasetextra.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - MEDIASET EXTRA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602207&extension=ts&play_token=nAhg1BTWzb
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/padrepiotv.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - PADREPIO
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602205&extension=ts&play_token=95jNWO19jf
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/qvc.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - QVC UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602203&extension=ts&play_token=hppfTlMlvA
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/tgnorba24.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - TG NORBA 24
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602202&extension=ts&play_token=qREf6dR2RZ
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/tgcom24.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - TGCOM24
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602201&extension=ts&play_token=qxqeH8nVXG
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/topcalcio24.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - TOP CALCIO 24
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602200&extension=ts&play_token=S3TTIy6csW
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/topcrime.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - TOP CRIME
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602199&extension=ts&play_token=FAoWCzS10W
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/tv8.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - TV 8
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602198&extension=ts&play_token=InQZIccHrU
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/tv2000.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - TV2000
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602197&extension=ts&play_token=0vUDouWz4T
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/uniresathd.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - UNIRESAT HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602196&extension=ts&play_token=84oZKwd4xX
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/winetv.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - WINE TV
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602195&extension=ts&play_token=E8ck8qqSN9
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rsila1.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RSI LA 1 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602193&extension=ts&play_token=xUx5DrEShu
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rsila2.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RSI LA 2 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602192&extension=ts&play_token=0yfyOzBTHc
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/canale21.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CANALE 21
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602191&extension=ts&play_token=qgB7R1xQjj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/BIKESMARTMOBILITY.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - BIKE SMART MOBILITY
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602190&extension=ts&play_token=5gPlXvfehS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/TOP-PLANET.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - TOP PLANET
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602189&extension=ts&play_token=IeufrP9Fs5
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/deejay.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - DEEJAY TV HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602188&extension=ts&play_token=ohmhmISsYU
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/hse24.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - HSE 24 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602187&extension=ts&play_token=CyAiS1isKU
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/vh1.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - VH1
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602185&extension=ts&play_token=RPYhfVXqTb
+#EXTINF:-1 tvg-logo="" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - MTV
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=759745&extension=ts&play_token=vULIw4NyRm
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/radioitalia.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RADIO ITALIA TV
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=906090&extension=ts&play_token=JCpdbDZvB7
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/rtl1025.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RTL 102.5 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602186&extension=ts&play_token=81bFGt81Cz
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/videolina.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - VIDEOLINA (SARDEGNA)
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=708516&extension=ts&play_token=i3F9unOoTX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ITALY/kiss-kiss-napoli-tv.png" group-title="|IT| GENERALE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - KISS KISS NAPOLI TV
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=883660&extension=ts&play_token=o7FkgCdP6D
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ITALY.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",###### CINEMA HD/UHD ######
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602184&extension=ts&play_token=UzMhcsFZmZ
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemaaction.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA ACTION SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602181&extension=ts&play_token=mQI2fiey09
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemaaction.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA ACTION HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602182&extension=ts&play_token=A52YaiKH0V
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemaaction.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA ACTION UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602183&extension=ts&play_token=ZBsxdufx0Z
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemacollection.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA COLLECTION SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602178&extension=ts&play_token=vT9N7iNN4a
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemacollection.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA COLLECTION HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602179&extension=ts&play_token=4snbcfsLuc
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemacollection.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA COLLECTION UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602180&extension=ts&play_token=QxjxObclDS
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemacomedy.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA COMEDY SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602175&extension=ts&play_token=AdE9Stv5u5
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemacomedy.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA COMEDY HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602176&extension=ts&play_token=jcECYE6jTs
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemacomedy.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA COMEDY UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602177&extension=ts&play_token=jR9i3ltWlh
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemadrama.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA DRAMA SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602172&extension=ts&play_token=OK8gtCVBZC
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemadrama.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA DRAMA HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602173&extension=ts&play_token=MP9ueqRLmK
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemadrama.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA DRAMA UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602174&extension=ts&play_token=k7xLTb0YaC
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemadueplus24.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA DUE  24 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602170&extension=ts&play_token=LQnFJfnjIi
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemadueplus24.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA DUE  24 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602171&extension=ts&play_token=BFhb9JQiip
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemadue.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA DUE SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602167&extension=ts&play_token=uoqKdMeMvO
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemadue.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA DUE HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602168&extension=ts&play_token=rrI1LeTjUF
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemadue.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA DUE UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602169&extension=ts&play_token=b3RXCHRsas
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemafamily.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA FAMILY SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602164&extension=ts&play_token=nAVXacx349
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemafamily.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA FAMILY HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602165&extension=ts&play_token=Uo0o4cIejU
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemafamily.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA FAMILY UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602166&extension=ts&play_token=5Qei2Ba2Hj
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemaromance.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA ROMANCE SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602161&extension=ts&play_token=Ss4NMoMBMe
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemaromance.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA ROMANCE HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602162&extension=ts&play_token=ob4PKbl1fq
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemaromance.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA ROMANCE UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602163&extension=ts&play_token=fYDWkSJIzu
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemasuspense.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA SUSPENSE SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602158&extension=ts&play_token=XQDhtkMyO6
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemasuspense.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA SUSPENSE HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602159&extension=ts&play_token=PC1UdVpe0T
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemasuspense.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA SUSPENSE UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602160&extension=ts&play_token=bV0LwMYt7y
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemaunoplus24.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA UNO 24 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602156&extension=ts&play_token=EqqrhdrPMz
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemaunoplus24.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA UNO 24 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602157&extension=ts&play_token=u6BPjf5fRX
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemauno.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA UNO SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602153&extension=ts&play_token=CyL3mAPqYV
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemauno.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA UNO HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602154&extension=ts&play_token=Xl2RqGmMzA
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemauno.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CINEMA UNO UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602155&extension=ts&play_token=8xWr9lD6yu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CIELO.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CIELO UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602152&extension=ts&play_token=5d2HCiRHpG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKYCLASSICA-1.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CLASSICA UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602151&extension=ts&play_token=ZPGYt3YLFg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-COMEDY-CENTRAL.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY COMEDY CENTRAL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602150&extension=ts&play_token=amVtNSmgYR
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyseriehd.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SERIE UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=882050&extension=ts&play_token=oFiAxACVUv
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyarte.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY ARTE HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602148&extension=ts&play_token=79hyJpbDKp
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyarte.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY ARTE UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602149&extension=ts&play_token=YW9UsdpraZ
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyatlantic.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY ATLANTIC SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602145&extension=ts&play_token=3VrZLaBDkf
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyatlantic.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY ATLANTIC HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602146&extension=ts&play_token=UDP9dimEYX
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyatlantic.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY ATLANTIC UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602147&extension=ts&play_token=e3VRGZwXXJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-PESCA-E-CACCIA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PESCA E CACCIA UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602144&extension=ts&play_token=jNxShnHtj2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-PREMIUM-ACTION.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PREMIUM ACTION HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602142&extension=ts&play_token=qBCdrUC4Ct
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-PREMIUM-ACTION.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PREMIUM ACTION UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602143&extension=ts&play_token=EmHXINuPYY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-PREMIUM-CINEMA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PREMIUM CINEMA 1 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602134&extension=ts&play_token=pb4Jlq6oJP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-PREMIUM-CINEMA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PREMIUM CINEMA 1 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602135&extension=ts&play_token=YJPkbOiYY7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-PREMIUM-CINEMA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PREMIUM CINEMA 1 +24 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602140&extension=ts&play_token=QnTbdmhNul
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-PREMIUM-CINEMA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PREMIUM CINEMA 1 +24 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602141&extension=ts&play_token=dREQ3XgDDp
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/premiumcrime.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PREMIUM CRIME HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602132&extension=ts&play_token=w4mOStn8E4
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/premiumcrime.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PREMIUM CRIME UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602133&extension=ts&play_token=hv97bbwvtD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/PREMIUM-STORIES.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PREMIUM STORIES HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602130&extension=ts&play_token=fjvBSoVb4c
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/PREMIUM-STORIES.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PREMIUM STORIES UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602131&extension=ts&play_token=3PtL5FvoP3
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE VETRINA HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602126&extension=ts&play_token=0u8UfyVw5g
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 1 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602125&extension=ts&play_token=bgLNIvESxn
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 2 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602124&extension=ts&play_token=bVpmQQN9sP
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 3 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602123&extension=ts&play_token=0gBIR4jsqT
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 4 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602122&extension=ts&play_token=rraTMK4SBa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/primafila5.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 5 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602121&extension=ts&play_token=bGAeQql9Kj
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 6 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602120&extension=ts&play_token=9AHHPQkBed
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 7 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602119&extension=ts&play_token=xekX5BH42k
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 8 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602118&extension=ts&play_token=T1CH6LqlL4
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 9 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602117&extension=ts&play_token=0MQkCrL1yz
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 10 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602116&extension=ts&play_token=h1hsM45kKb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/primafila11.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 11 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602115&extension=ts&play_token=7onClPh146
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 12 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602114&extension=ts&play_token=84Uu16BrWb
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 13 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602113&extension=ts&play_token=NT7eIHcbbC
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 14 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602112&extension=ts&play_token=GaBGPVPssn
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 15 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602111&extension=ts&play_token=j8riNK5lvZ
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 16 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602110&extension=ts&play_token=UDUD6P89FL
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 17 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602109&extension=ts&play_token=ZMviDNXUPx
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 18 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602108&extension=ts&play_token=VnEfRrSzC1
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - VETRINA SKY PRIMAFILA UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602107&extension=ts&play_token=jU95omD4Sv
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 1 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602106&extension=ts&play_token=YKLim1CRkt
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 2 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602105&extension=ts&play_token=Hty6g6kKZh
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 3 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602104&extension=ts&play_token=62l0hzw5IB
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 4 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602103&extension=ts&play_token=QA0ptHr2p6
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 5 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602102&extension=ts&play_token=iLSkTijasB
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 6 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602101&extension=ts&play_token=hUkdRtHV7S
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 7 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602100&extension=ts&play_token=iGTtDNRlf0
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 8 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602099&extension=ts&play_token=B8VRd4U4Xk
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 9 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602098&extension=ts&play_token=uo2VLBh80z
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 1
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602097&extension=ts&play_token=XaFzln0Jrd
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 2
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602096&extension=ts&play_token=DOA70MnJia
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 3
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602095&extension=ts&play_token=s4QarVllBu
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 4
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602094&extension=ts&play_token=7jnY77jLDW
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 5
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602093&extension=ts&play_token=MMBR6eYq2y
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 6
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602092&extension=ts&play_token=U0LdlkTooq
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 7
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602091&extension=ts&play_token=J7zDI3mElo
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 8
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602090&extension=ts&play_token=RDIaIVB0Zm
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 9
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602089&extension=ts&play_token=VDmTucAde7
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 10
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602088&extension=ts&play_token=0Xv59ZBepN
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 11
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602087&extension=ts&play_token=RZEaXDGcPH
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 12
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602086&extension=ts&play_token=LPWaEAQJXF
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 13
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602085&extension=ts&play_token=yyME5ZKJAW
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 14
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602084&extension=ts&play_token=I4fDSwOKHb
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 15
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602083&extension=ts&play_token=T6qzhcBZVY
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 16
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602082&extension=ts&play_token=C4UE89O2GU
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 17
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602081&extension=ts&play_token=866NjlhRl6
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMA FILA 18
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602080&extension=ts&play_token=8MfD38nHOg
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycomedy.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY COMEDY
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=882233&extension=ts&play_token=i7qYXoqdeb
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyaction.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY ACTION
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=882232&extension=ts&play_token=j5TEOnOXK8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/RAKUTEN-TV.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAKUTEN TV COMMEDIA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602078&extension=ts&play_token=TU4jHAEOma
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/RAKUTEN-TV.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAKUTEN TV DOCUMENTARI
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602077&extension=ts&play_token=jwXiw2FEsH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/RAKUTEN-TV.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAKUTEN TV DRAMMATICO
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602076&extension=ts&play_token=BYm7YREIOg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/RAKUTEN-TV.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAKUTEN TV FILM D'AZIONE
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602075&extension=ts&play_token=PnsTPynSc8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/RAKUTEN-TV.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAKUTEN TV FILM TOP
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602074&extension=ts&play_token=1gKcM3WWEP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/RAKUTEN-TV.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAKUTEN TV CLASSICO
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602073&extension=ts&play_token=iplXF8YRhc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/RAKUTEN-TV.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAKUTEN TV THRILLER
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602072&extension=ts&play_token=00DZjqAMN3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/CINEMA-CINEMA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602070&extension=ts&play_token=CPAMI96rGg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/CINEMA-CINEMA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA 007 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602069&extension=ts&play_token=5HoX8zKNme
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/CINEMA-ANIMAZIONE.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA ANIMAZIONE UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602068&extension=ts&play_token=dQxCbxxIGZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/CINEMA-CINEMA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA AVVENTURA UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602067&extension=ts&play_token=rnBCzTCFQz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/CINEMA-CINEMA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA AZIONE UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602066&extension=ts&play_token=JgZGRHMOk8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/CINEMA-CINEMA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA BUD SPENCER HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602065&extension=ts&play_token=xFyj2Vqqry
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/CINEMA-COMICO.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA COMICO CULT UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602064&extension=ts&play_token=AkqcxT9lJ1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/CINEMA-COMICO.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA COMMEDIA UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602063&extension=ts&play_token=obTpwS36Oy
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemadrama.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA DRAMMATICO UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602062&extension=ts&play_token=YPLOOKgSKb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/CINEMA-FANTASTICO.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA FANTASTICO UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602061&extension=ts&play_token=NCPBTwJ1KW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/CINEMA-CINEMA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA FILM IN SALA  UHD (QUALITA CAMERA)
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602060&extension=ts&play_token=4HuPRXywlU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/CINEMA-HORROR.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA HORROR UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602059&extension=ts&play_token=yE0Jte31RT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/CINEMA-CINEMA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA MITOLOGIA HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602058&extension=ts&play_token=9XsVCBGi5h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/CINEMA-PASSIONE.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA PASSIONE UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602057&extension=ts&play_token=OMHOFIxr62
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/prima.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA PRIMA VISIONE UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602056&extension=ts&play_token=8I67f43RXJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/CINEMA-CINEMA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA RELIGION HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602055&extension=ts&play_token=0HGjZybHyZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/CINEMA-CINEMA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA SORRISO UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602054&extension=ts&play_token=d3y7ACsbI0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/CINEMA-CINEMA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA SPAGHETTI WESTERN UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602053&extension=ts&play_token=LlMMEAt8RD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/CINEMA-CINEMA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA STORICO UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602052&extension=ts&play_token=RL29IIOBi1
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemathrillerhd.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA THRILLER UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602051&extension=ts&play_token=20PjVxrLt2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/skycinemawesterns.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA WESTERN UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602050&extension=ts&play_token=kpZEQWSNsL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY--CHANNEL.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - DISNEY TOPOLINO PAPERINO E PIPPO HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602049&extension=ts&play_token=qMfSvibg1s
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/FIABE-MAGICHE.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - FIABE MAGICHE HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602048&extension=ts&play_token=CuinDybsC2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/GOMORRA-STAGIONE-1.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - GOMORRA STAGIONE 1 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602047&extension=ts&play_token=MjjXvoKHW9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/GOMORRA-STAGIONE-1.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - GOMORRA STAGIONE 2 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=1273912&extension=ts&play_token=f4ccI6kKFi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/GOMORRA-STAGIONE-1.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - GOMORRA STAGIONE 3 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=1273913&extension=ts&play_token=vSsFuMzBMr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/GOMORRA-STAGIONE-1.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - GOMORRA STAGIONE 4 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=1273914&extension=ts&play_token=vUtuoQkMuh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY--CHANNEL.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - LE FIABE DISNEY HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602043&extension=ts&play_token=GfJMWwbuZJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/LOONEY-TOONS.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - LOONEY TOONS HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602042&extension=ts&play_token=9KpebTdBiq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/MASHA-E-ORSO.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - MASHA E ORSO HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602041&extension=ts&play_token=M2UJxfaPso
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/disneyplus.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - NATURE DISCOVERY UHD (DOUBLE AUDIO)
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602040&extension=ts&play_token=DJtErc47yY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/PEPPA-PIG.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - PEPPA PIG UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602039&extension=ts&play_token=TxI4MxkPsH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SUPER-PIGIAMINI.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SUPER PIGIAMINI UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602038&extension=ts&play_token=oWisi6XZ1w
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - BRICKLEBERRY UHD 24H
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602035&extension=ts&play_token=SnTYm0B28H
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BIOGRAFICO.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA BIOGRAFICO UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602034&extension=ts&play_token=YiTfNhMxqa
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skycinemafamily.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA FAMIGLIA UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602033&extension=ts&play_token=gYTMf7RK6M
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/CINEMA-FANTASCIENZA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEMA FANTASCIENZA UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602032&extension=ts&play_token=a7xQbJo3KB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CINEPANETTONE HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602031&extension=ts&play_token=rDorS5NB1J
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/disneychannel.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - DISNEY PLUS FILM 2 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602030&extension=ts&play_token=Dzs2j4g7vY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-NATURE.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - DISNEY PLUS NATURE HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602029&extension=ts&play_token=l214TDYIV9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/MARVEL.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - MARVEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602028&extension=ts&play_token=OOBDRlgYhb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/EXPLORERNATYRA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - NATURE EXPLORER UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602027&extension=ts&play_token=WxO6THXE58
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - PETER GRIFFIN 24H
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602026&extension=ts&play_token=1ubQW6neTP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SCOOBY-DOO.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SCOOBY-DOO UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602025&extension=ts&play_token=tmVTMBgv0Y
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - THE CLEVELAND SHOW 24H
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602024&extension=ts&play_token=QkvOwXeOLl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - G.I.JOE CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602023&extension=ts&play_token=Jp6NKQAKXN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - GHOST ADVENTURES-CACCIATORI DI FANTASMI CHANNEL
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602022&extension=ts&play_token=gfMHpQPF1w
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/HARRY-POTTER.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - HARRY POTTER CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602021&extension=ts&play_token=2l3SSitY6D
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - HUNGER GAMES CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602020&extension=ts&play_token=pLUSPFvpCc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - IL RE SCORPIONE CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602019&extension=ts&play_token=j7rE1VS8dI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/INDIANA-JONES.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - INDIANA JONES CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602010&extension=ts&play_token=nZ9pQOTkHS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - IP MAN CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602009&extension=ts&play_token=Mr0UDHDjpQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/KARATE-KID-CHANNEL.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - KARATE KID CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602008&extension=ts&play_token=Z3Gsr7Z2ey
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/KUNG-FU-PANDA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - KUNG FU PANDA FILM CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602007&extension=ts&play_token=D6hRKa6a6w
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ME-CONTRO-TE CHANNEL HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602006&extension=ts&play_token=R5XYW62WDV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MEN-IN-BLACK.jpeg" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - MEN IN BLACK CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602005&extension=ts&play_token=Jcv19JAtd2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - MISSION IMPOSSIBLE CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602004&extension=ts&play_token=ts3sG7fUK7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PIRATES-OF-THE-CARIBBEAN.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - PIRATI DEI CARAIBI CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602003&extension=ts&play_token=vZ3GbiX7c4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PIRATES-OF-THE-CARIBBEAN.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - PIRATI DEI CARAIBI CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602002&extension=ts&play_token=Trii2icFOU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RAMBO-CHANNEL.jpeg" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAMBO CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602001&extension=ts&play_token=UvOe06nM80
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ROCKY-CHANNEL.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ROCKY CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=602000&extension=ts&play_token=o7Ic9D4OaT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/STAR-WARS-CHANNEL.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - STAR WARS CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601999&extension=ts&play_token=4IW5PYevdD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - TERMINATOR CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601998&extension=ts&play_token=mNheSVB7h5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - THE BOURNE CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601996&extension=ts&play_token=YjMBV9LL7N
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TRANSFORMERS-CHANNEL.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - TRANSFORMERS CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601995&extension=ts&play_token=DOE3Llr8tD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - HOW I MET YOU MOTHER UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601993&extension=ts&play_token=OpD9pDIeJ3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - 20THCENTURYFOX UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601991&extension=ts&play_token=yiQCuHQwOK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/FAST-AND-FURIOUS-CHANNEL.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - FAST AND FURIOUS CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601989&extension=ts&play_token=iz4g0pPjhH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - I MERCENARI-THE EXPENDABLES CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601988&extension=ts&play_token=DyyelpfY3N
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - I MERCENARI-THE EXPENDABLES CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601987&extension=ts&play_token=QEDE2YzXFk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - JEAN CLAUDE VAN DAMME CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601986&extension=ts&play_token=niSMWgpGA7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/KUNG-FU-PANDA.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - KUNG FU PANDA SERIES CHANNEL HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601984&extension=ts&play_token=vwmminwqMD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/PREMIUMTV.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",###### PREMIUM PLAY ######
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601978&extension=ts&play_token=hwe9WU6YHe
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 1 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601976&extension=ts&play_token=jBJgrAJkr5
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 2 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601975&extension=ts&play_token=dMTfhkgsBf
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 3 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601974&extension=ts&play_token=S2PgrJVm7Q
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 4 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601973&extension=ts&play_token=TbHmt9cK9a
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 5 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601972&extension=ts&play_token=QQdxWRb2aN
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 6 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601971&extension=ts&play_token=mnlQ845Iai
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 7 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601970&extension=ts&play_token=pb5kvKrjn2
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 8 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601969&extension=ts&play_token=qFRMsJJBHp
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA 9 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601968&extension=ts&play_token=JSbR1zXxhz
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 2 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601965&extension=ts&play_token=fres3f7NQR
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 3 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601964&extension=ts&play_token=SAOX6aV5d4
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 4 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601963&extension=ts&play_token=L7pVKSh29Q
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 5 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601962&extension=ts&play_token=RAwdB4G2WI
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 6 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601961&extension=ts&play_token=EF9CG8yfDa
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 7 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601960&extension=ts&play_token=utp5SI5XN0
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 8 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601959&extension=ts&play_token=mT6wwwVcqX
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 9 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601958&extension=ts&play_token=WanA9FA1kP
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 10 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601957&extension=ts&play_token=zwjZqwybjX
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 11 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601956&extension=ts&play_token=4agPNYyZz5
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 12 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601955&extension=ts&play_token=QtGZMIUUMr
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 13 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601954&extension=ts&play_token=9Wix9Y7xpU
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 14 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601953&extension=ts&play_token=TaVmbbOSIk
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 15 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601952&extension=ts&play_token=PJowvZ8jAQ
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 16 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601951&extension=ts&play_token=pCClnInNaZ
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 17 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601950&extension=ts&play_token=scxFAB0Sqv
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skyprimafila.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY PRIMAFILA PREMIERE 18 FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601949&extension=ts&play_token=G9x1PrCh4H
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - GHOST ADVENTURES-CACCIATORI DI FANTASMI CHANNEL
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601908&extension=ts&play_token=wERW7id5TA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - IL RE SCORPIONE CHANNEL FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601904&extension=ts&play_token=tW5c5hzyto
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - IL SIGNORE DEGLI ANELLI CHANNEL FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601903&extension=ts&play_token=kCFMB4Shr2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - I MERCENARI-THE EXPENDABLES CHANNEL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601894&extension=ts&play_token=YQzHqNqs9x
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - I MERCENARI-THE EXPENDABLES CHANNEL FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601893&extension=ts&play_token=uVidi8eLKR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - MISSION IMPOSSIBLE CHANNEL FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601885&extension=ts&play_token=Y8g7QaRoXK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PIRATES-OF-THE-CARIBBEAN.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - PIRATI DEI CARAIBI CHANNEL FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601883&extension=ts&play_token=Ay8ZXbCD8g
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ROCKY CHANNEL FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601881&extension=ts&play_token=kp5dT5qYAa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - THE BIG BANG THEORY FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601878&extension=ts&play_token=UdvIQA9vKJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TRANSFORMERS-CHANNEL.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - TRANSFORMERS CHANNEL FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601875&extension=ts&play_token=Yo08gWBPD5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - DISNEY PLUS ANIMATION HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601871&extension=ts&play_token=HUvy74OuEH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MoviesOnDemand-Logo.png" group-title="|IT| CINEMA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - DISNEY PLUS FILM HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601869&extension=ts&play_token=KAfJfbwDaA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ITALY.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",###### SPORT HD/UHD ######
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601858&extension=ts&play_token=MwALCBZy0t
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportaction.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT ACTION SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601855&extension=ts&play_token=5WXVGQbV1P
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportaction.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT ACTION HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601856&extension=ts&play_token=pD2HIwgFSX
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportaction.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT ACTION UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601857&extension=ts&play_token=8EloYFa0at
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysport24.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT 24 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601853&extension=ts&play_token=pYuabNU9DQ
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysport24.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT 24 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601854&extension=ts&play_token=mWF3897wYD
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportarena.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT ARENA SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601849&extension=ts&play_token=3dWvrmFDNn
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportarena.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT ARENA HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601850&extension=ts&play_token=eRCs7Wmshm
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportarena.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT ARENA UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601851&extension=ts&play_token=9nknSl6TS4
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysporttennis.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT TENNIS SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601847&extension=ts&play_token=hK8LyCguvM
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysporttennis.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT TENNIS HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601846&extension=ts&play_token=XEk7ZDgP9q
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysporttennis.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT TENNIS UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601848&extension=ts&play_token=VaTz092BYL
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT DELAY
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601845&extension=ts&play_token=JkSN6b7klm
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportf1.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT F1 SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601842&extension=ts&play_token=Pe1RYeYPIX
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportf1.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT F1 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601843&extension=ts&play_token=vwGh5JmR0J
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportf1.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT F1 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601844&extension=ts&play_token=3LjiUZYthP
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportfootball.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT FOOTBALL SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601839&extension=ts&play_token=0GTt6Ei7wW
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportfootball.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT FOOTBALL HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601840&extension=ts&play_token=yg3NXvXPn3
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportfootball.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT FOOTBALL UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601841&extension=ts&play_token=e9wUhx9Zy6
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportmotogp.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT MOTOGP SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601836&extension=ts&play_token=2zY3bYrLz1
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportmotogp.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT MOTOGP HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601837&extension=ts&play_token=dfo7cLtacf
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportmotogp.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT MOTOGP UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601838&extension=ts&play_token=I7L8U7hDlr
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportnba.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT NBA SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601833&extension=ts&play_token=ERzoQfSHJX
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportnba.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT NBA HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601834&extension=ts&play_token=E8Id20ykln
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportnba.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT NBA UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601835&extension=ts&play_token=Rxby0busOk
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportcalcio.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT CALCIO SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601830&extension=ts&play_token=YzISC7Q6sG
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportcalcio.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT CALCIO HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601831&extension=ts&play_token=oSY52FrHgt
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportcalcio.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT CALCIO UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601832&extension=ts&play_token=EItYfKQSza
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportseriea.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT SERIE A
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=703213&extension=ts&play_token=9Y2csfftIQ
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysport24.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT 24 SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601852&extension=ts&play_token=ZEFdB4oibN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 1 SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601827&extension=ts&play_token=KPopJwazJ0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 1 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601828&extension=ts&play_token=16fRCizY3j
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 1 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601829&extension=ts&play_token=tWcKZYr3hN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 2 SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601824&extension=ts&play_token=1030EfYwcM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 2 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601825&extension=ts&play_token=mrs9eP4Q2Q
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 2 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601826&extension=ts&play_token=0UTBMIs0jI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 3 SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601821&extension=ts&play_token=EMtNBenEwe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 3 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601822&extension=ts&play_token=cjPQQ1b3l8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 3 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601823&extension=ts&play_token=Q6FrHGzZF2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 4 SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601818&extension=ts&play_token=CTW3yfxS1J
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 4 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601819&extension=ts&play_token=eYwX18fAac
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 4 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601820&extension=ts&play_token=eiR40H5EOd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 5 SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601815&extension=ts&play_token=zvPeXNS5y0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 5 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601816&extension=ts&play_token=PFLXNYj1bw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 5 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601817&extension=ts&play_token=8SgqZTeeq1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 6 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601813&extension=ts&play_token=SaFhaS1Mrb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 6 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601814&extension=ts&play_token=G61uYzMWvO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 7 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601811&extension=ts&play_token=uYsHmNuFbk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-CALCIO-3.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY CALCIO 7 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601812&extension=ts&play_token=pi19NQNbyd
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT SOLO CALCIO
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601810&extension=ts&play_token=oEwlpbnlVb
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT SOLO MOTORI
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601809&extension=ts&play_token=DzEkumTCre
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportuno.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT UNO SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601806&extension=ts&play_token=wlKOpm69G8
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportuno.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT UNO HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601807&extension=ts&play_token=LIPhTpZdNy
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportuno.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT UNO UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601808&extension=ts&play_token=3msOp8418n
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT ITALIA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601805&extension=ts&play_token=1C1lMbTWNs
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601804&extension=ts&play_token=vfpSpgRGkH
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysport24.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT LIVE 24
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601803&extension=ts&play_token=DlOhDxn4JF
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/supertennishd.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SUPER TENNIS HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601801&extension=ts&play_token=ruCuMPfsmx
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/supertennishd.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SUPER TENNIS UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601802&extension=ts&play_token=9hdg9tr1nZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORTPLUS.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORTPLUS
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601800&extension=ts&play_token=DIZGXV88zT
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/acisporttv.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY ACI SPORT TV
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601799&extension=ts&play_token=GKwBvlaQvw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/raisport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI SPORT HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601797&extension=ts&play_token=vn2cpJD4n2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/raisport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI SPORT UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601798&extension=ts&play_token=UtaNSBsXJI
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DONNA TV SPORT
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601796&extension=ts&play_token=RerqoHpoPM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - DAZN CHANNEL SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=604050&extension=ts&play_token=JzUa5aBQSv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - DAZN CHANNEL HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=604051&extension=ts&play_token=W789sKTiYV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - DAZN CHANNEL HEVC
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=604053&extension=ts&play_token=L4npG7PxcO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - NFL DAZN UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=604049&extension=ts&play_token=GgnzaDl6w4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DAZN BAR SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601793&extension=ts&play_token=vaLjkoNmIi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DAZN BAR HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601794&extension=ts&play_token=aVAeVcNGPh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DAZN BAR UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601795&extension=ts&play_token=Hfnr5gcmBb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY VETRINA DAZN
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601792&extension=ts&play_token=A8Q8N1r90k
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DAZN WEB 1 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601791&extension=ts&play_token=62o6vYwkhd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DAZN WEB 2 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601790&extension=ts&play_token=cM3xTHWzEn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DAZN WEB 3 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601789&extension=ts&play_token=3rbTv2BcWW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DAZN WEB 4 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601788&extension=ts&play_token=lW027z9Jge
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DAZN WEB 5 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601787&extension=ts&play_token=EJEEk9yT9g
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DAZN WEB 6 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601786&extension=ts&play_token=VPPZHIlZPO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DAZN WEB 7 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601785&extension=ts&play_token=H99BBtdCv2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DAZN WEB 8 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601784&extension=ts&play_token=P0mpZxW9py
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DAZN WEB 9 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601783&extension=ts&play_token=Z25kFhR5NP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DAZN WEB 10 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601782&extension=ts&play_token=fbKwfpICa3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DAZN WEB 11 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601781&extension=ts&play_token=CYBDMaxHlO
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportuno.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT BAR UNO SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603941&extension=ts&play_token=Ew32wbZegn
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportuno.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT BAR UNO HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603942&extension=ts&play_token=rbJhfPn8ih
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportuno.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT BAR UNO UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603943&extension=ts&play_token=Igx9G4JEsg
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysport2.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT BAR DUE SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603938&extension=ts&play_token=nZVX1eyqtE
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysport2.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT BAR DUE HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603939&extension=ts&play_token=IS6lZUiy04
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysport2.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT BAR DUE UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603940&extension=ts&play_token=Aib5k9x6M4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ligue1.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT BAR PRIMEVIDEO SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603935&extension=ts&play_token=Mo8GxtDKVQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ligue1.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT BAR PRIMEVIDEO HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603936&extension=ts&play_token=IpOoI2ea4Y
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ligue1.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORT BAR PRIMEVIDEO UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603937&extension=ts&play_token=4YEW3l5B8v
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CHAMPIONS LEAGUE INFINITY 1 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603108&extension=ts&play_token=IQxzMRjLy6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CHAMPIONS LEAGUE INFINITY 2 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603107&extension=ts&play_token=MzqoXuhsFP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CHAMPIONS LEAGUE INFINITY 3 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603106&extension=ts&play_token=ozkQNt1e4H
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CHAMPIONS LEAGUE INFINITY 4 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603105&extension=ts&play_token=Z1J5a3TIJj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CHAMPIONS LEAGUE INFINITY 5 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603104&extension=ts&play_token=mQrL3rtjQ4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CHAMPIONS LEAGUE INFINITY 6 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603103&extension=ts&play_token=9WaFPOF2GU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CHAMPIONS LEAGUE INFINITY 7 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603102&extension=ts&play_token=sUKcMS3XjF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CHAMPIONS LEAGUE INFINITY 8 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603101&extension=ts&play_token=KbesSgE6xm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CHAMPIONS LEAGUE INFINITY 9 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603100&extension=ts&play_token=KqGaLYVca5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CHAMPIONS LEAGUE INFINITY 10 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603099&extension=ts&play_token=6FFq4PmAkW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CHAMPIONS LEAGUE INFINITY 11 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603098&extension=ts&play_token=KrDnIX4WJe
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CHAMPIONS LEAGUE INFINITY 12 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=603097&extension=ts&play_token=V2ZhTEVoXJ
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport1.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY EUROSPORT 1 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601779&extension=ts&play_token=aBuzEt360C
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport1.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY EUROSPORT 1 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601780&extension=ts&play_token=BjGKHLMChV
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport2.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY EUROSPORT 2 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601777&extension=ts&play_token=Vn6dWfWnGt
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport2.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY EUROSPORT 2 UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601778&extension=ts&play_token=AGpfUwFhqY
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 1
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601776&extension=ts&play_token=o4diy0Q7tG
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 2
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601775&extension=ts&play_token=63Wk5JKrKc
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 3
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601774&extension=ts&play_token=tW51VuygE8
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 4
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601773&extension=ts&play_token=d6OTin5SAM
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 5
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601772&extension=ts&play_token=DenafxYZES
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 6
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601771&extension=ts&play_token=65GGnE18oz
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 7
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601770&extension=ts&play_token=iSpo5Qnkk3
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 8
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601769&extension=ts&play_token=3NdTlXgpyf
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 9
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601768&extension=ts&play_token=vQUhNIXZVu
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 10
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601767&extension=ts&play_token=o0bmqvCNCy
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 11
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601766&extension=ts&play_token=PbZM016GYz
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 12
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601765&extension=ts&play_token=mSMJGcm70M
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 13
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601764&extension=ts&play_token=RGUjQtsVfr
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 14
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601763&extension=ts&play_token=pE4aaqlWDt
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 15
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601762&extension=ts&play_token=sd35U5Xkmm
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/eurosport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - EUROSPORT PLAYER LIVE 16
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601761&extension=ts&play_token=ohRChnYFyf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT VOLLEY SUPERLEGA LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601760&extension=ts&play_token=lEYzFsoFD9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT MOTOCICLISMO LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601759&extension=ts&play_token=e1QZwxRgRn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT ESPORT LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601758&extension=ts&play_token=pndL0Gq1jj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT DTM LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601757&extension=ts&play_token=7b965vCBK3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT CICLISMO  LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601756&extension=ts&play_token=Ic6IfRXOyO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT PALLANUOTO A1 MASCHILE LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601755&extension=ts&play_token=Zb55uPHfIV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT PALLANUOTO A1 FEMMNILE LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601754&extension=ts&play_token=ln4xvlxSu8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT PALLANUOTO 4 NAZIONI LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601753&extension=ts&play_token=S5iKhp2Jzq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT PALLAMANO CHAMPION LEAGUE LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601752&extension=ts&play_token=55KghWuCve
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT PALLAMANO BUNDESLIGA LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601751&extension=ts&play_token=zUQwvW9ura
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT PALLAMANO COPPA ITALIA LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601750&extension=ts&play_token=gh5hTWc9hb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT PALLAMANO NAZIONI LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601749&extension=ts&play_token=djXfQuDvFD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT HOCKEY PISTA A1 LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601748&extension=ts&play_token=En5Cpr6y8v
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT FIGHTING BOXE LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601747&extension=ts&play_token=GzWxOF9egd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT FIGHTING KICK BOXING LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601746&extension=ts&play_token=1UN47niBTC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT FIGHTING CAGE WARRIORS LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601745&extension=ts&play_token=08pC9KuaQ6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT DCL DRONE CHAMPIONS LEAGUE LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601744&extension=ts&play_token=Lo2RIOd2Z0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT SOFTBALL LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601743&extension=ts&play_token=PzosiYDUVo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT ATLETICA LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601742&extension=ts&play_token=Q87VqXlqN7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT SAFILENS PADEL EVO LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601741&extension=ts&play_token=4EdVhmC0IL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT CRICKET LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601740&extension=ts&play_token=NCusmWmLf9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - ELEVEN SPORT BADMINTON LIVE + REPLICA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601739&extension=ts&play_token=M7PXje4sfM
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysport.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY SPORTOUTDOOR.TV
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601738&extension=ts&play_token=NGpczZP4eq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-INTER.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY INTER UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601737&extension=ts&play_token=QKEY1tJosc
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/laeffe.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY LAEFFE HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601735&extension=ts&play_token=LpHhUcnCXM
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/laeffe.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY LAEFFE UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601736&extension=ts&play_token=zouCRTvupP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-LAZIO.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY LAZIO UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601734&extension=ts&play_token=E2M2qPkMJO
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/milantv.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY MILAN UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601733&extension=ts&play_token=wVtB10OGg3
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/classhorsetv.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CLASS HORSE TV HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601732&extension=ts&play_token=w9dKqgYtgS
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/classhorsetv.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY HORSE TV UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601731&extension=ts&play_token=aYe9ormvhz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/HELBIZ-LIVE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - HELBIZ SERIE B LIVE 1 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=767374&extension=ts&play_token=pGyU9xehpJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/HELBIZ-LIVE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - HELBIZ SERIE B LIVE 2 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=767375&extension=ts&play_token=PBTaeFh7aU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/HELBIZ-LIVE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - HELBIZ SERIE B LIVE 3 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=767376&extension=ts&play_token=xDaenuT97A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/HELBIZ-LIVE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - HELBIZ SERIE B LIVE 4 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=767377&extension=ts&play_token=nN40Txxio5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/HELBIZ-LIVE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - HELBIZ SERIE B LIVE 5 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=767378&extension=ts&play_token=1SwL1EqiCY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/HELBIZ-LIVE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - HELBIZ SERIE B LIVE 6 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=767379&extension=ts&play_token=Cj8P9KKsw4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/HELBIZ-LIVE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - HELBIZ SERIE B LIVE 7 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=767380&extension=ts&play_token=oT3NwsjJ49
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/HELBIZ-LIVE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - HELBIZ SERIE B LIVE 8 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=767381&extension=ts&play_token=Rbu7dZ2RNt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/HELBIZ-LIVE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - HELBIZ SERIE B LIVE 9 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=767382&extension=ts&play_token=Odwl80Ijl3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/HELBIZ-LIVE.png" group-title="|IT| SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - HELBIZ SERIE B LIVE 10 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=767383&extension=ts&play_token=vmA73BI4st
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ITALY.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",###### BAMBINI HD/UHD ######
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601730&extension=ts&play_token=bhLuV9D6sR
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/raigulp.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI GULP HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601728&extension=ts&play_token=wk1R9bEilL
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/raigulp.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI GULP UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601729&extension=ts&play_token=Z3Dhab8OKD
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/familytv.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - FAMILY
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601727&extension=ts&play_token=IUxEWOGXxL
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/teletubbies.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - TELETUBBIES HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601726&extension=ts&play_token=4Tr3Lqzyhf
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/super.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SUPER!
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601725&extension=ts&play_token=6y4xzRlbEa
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/boing.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - BOING
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601724&extension=ts&play_token=xBevyEh4fj
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/babytv.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - BABY TV UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601723&extension=ts&play_token=2OIeyouy8m
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/boomerang.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - BOOMERANG HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601721&extension=ts&play_token=p4Vri3HxpG
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/boomerang.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - BOOMERANG UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601722&extension=ts&play_token=Ou2ro5RAvE
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/cartoonnetwork.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CARTOON NETWORK HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601719&extension=ts&play_token=VUfnBDVlCW
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/cartoonnetwork.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CARTOON NETWORK UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601720&extension=ts&play_token=KDUwfi1VTa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/YAMATO-ANIMATION.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - YAMATO ANIMATION
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601718&extension=ts&play_token=R4faiW8RoS
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/cartoonito.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - CARTOONITO
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601714&extension=ts&play_token=BNs7g43qtp
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/boingplus.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - BOING PLUS
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601713&extension=ts&play_token=0Hk6Qr8y23
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/raiyoyo.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI YOYO HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601711&extension=ts&play_token=EbdbDJXFhg
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/raiyoyo.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - RAI YOYO UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601712&extension=ts&play_token=Q35KrlBwIc
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nickjr.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - NICK JR SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601706&extension=ts&play_token=xp2DDUm77K
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/deakids.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - SKY DEAKIDS
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=821388&extension=ts&play_token=gV6I4BKU4a
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/k2.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - K2
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601707&extension=ts&play_token=f6q3D2hn5j
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nickelodeon.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - NICKELODEON SD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601705&extension=ts&play_token=QtAvGdvE7H
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/FRISBEE-MINI.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - FRISBEE MINI
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601700&extension=ts&play_token=yEcbyygfMO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NICK-JR-HD.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - NICK JR HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601698&extension=ts&play_token=XqA40aDy7L
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NICK-JR-HD.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - NICK JR UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601699&extension=ts&play_token=0EoOKpTYAW
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nickelodeon.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - NICKELODEON HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601696&extension=ts&play_token=IhnEQWbEJo
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/nickelodeon.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - NICKELODEON UHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601697&extension=ts&play_token=1EUwTerPBw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/KUNG-FU-PANDA.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - KUNG FU PANDA FILM CHANNEL FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601680&extension=ts&play_token=BuMUtInNiH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/KUNG-FU-PANDA.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - KUNG FU PANDA SERIES CHANNEL HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601679&extension=ts&play_token=ig0caOYBNr
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/frisbee.png" group-title="|IT| BAMBINI by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",IT - FRISBEE
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=601675&extension=ts&play_token=2AXv2AzJ6b
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/891448.png" group-title="|NL| BUITENLAND by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",NL - TELE CURACAO HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=891448&extension=ts&play_token=NAbRk3tbcD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/891447.png" group-title="|NL| BUITENLAND by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",NL - TV DIRECT 13
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=891447&extension=ts&play_token=05KPSvOsiG
+#EXTINF:-1 tvg-logo="" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",##### LITHUANIA #####
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=672624&extension=ts&play_token=CvBhvvs5Y6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIASAT-NATURE-HD.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - VIASAT NATURE HD EUROPE
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=672614&extension=ts&play_token=k2vsTUJV7X
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv8lithuania.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - TV8 HD LIETUVA
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=672615&extension=ts&play_token=zDAFanPl3b
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv1000.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - TV1000 RUSSIAN MOVIE HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=672616&extension=ts&play_token=p7elLZfTyb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPORT-1-BALTIC.jpeg" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - SPORT 1 BALTIC
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=672617&extension=ts&play_token=FTu8f1OVob
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RYTAS-TV.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - RYTAS HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=672618&extension=ts&play_token=J6LQNXCiMq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - NATIONAL GEOGRAPHICS HD EUROPE
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=672619&extension=ts&play_token=YLTF1ssmjm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/mtvhits.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - MTV HITS EUROPE
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=672620&extension=ts&play_token=rnninpX14s
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv1000action.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - TV1000 ACTION HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=672621&extension=ts&play_token=yf0xDDFJGj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ltv1.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - LTV 1
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=672622&extension=ts&play_token=NHtMMJ748x
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/3plus.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - 3PLUS
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=672623&extension=ts&play_token=1gbEjG2MZn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIASAT-EXPLORER.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - VIASAT EXPLORE
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=724168&extension=ts&play_token=sEtK8eHhCg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/vh1europe.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - VH1 EUROPE
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=724169&extension=ts&play_token=gzOtq3ZvoU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv6lv.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - TV6
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=724170&extension=ts&play_token=hIwcgu6ce3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TV3-LIFE.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - TV3 LIFE
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=724171&extension=ts&play_token=Kc7pjj0zHX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv1.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - TV1
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=724173&extension=ts&play_token=TUUH3yp8Sm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/REN_TV_BALTIC.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - REN TV BALTIC
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=724174&extension=ts&play_token=iQWJV4stg0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ntvmirbaltic.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - NTV BALTIC
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=724175&extension=ts&play_token=1jYdBruyxS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/mtvhits.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - MTV HITS
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=724177&extension=ts&play_token=TsMTj0QPQ5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/fishingandhunting.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - HUNTING AND FISHING
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=724179&extension=ts&play_token=LwAzwr3LJf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/firstchannel.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - FIRST CHANNEL BALTIC
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=724180&extension=ts&play_token=M3ijpTyVPB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DISNEY-XD-HD.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - DISNEY XD EU
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=724181&extension=ts&play_token=oZYNQtAMri
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BALTICUM-PLATINUM.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - BATTICUM PLATINUM FHD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=724182&extension=ts&play_token=QqaGrP87g4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv6.png" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - TV6 HD
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=724183&extension=ts&play_token=h65nMm3Rsa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TV-3-SD.jpeg" group-title="|EU| LITHUANIA by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",LT - TV3 MINI
+http://di.ksa-ott.vip:80/play/live.php?mac=00:1A:79:00:10:0C&stream=724186&extension=ts&play_token=zHTUSVRRHb
