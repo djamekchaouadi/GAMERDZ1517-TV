@@ -1,414 +1,414 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/TF1.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TF1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/TF1.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TF1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936754&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/FRANCE 2.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ FRANCE 2 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/FRANCE 2.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ FRANCE 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936757&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/FRANCE 3.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ FRANCE 3 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/FRANCE 3.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ FRANCE 3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936760&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/FRANCE 4.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ FRANCE 4 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/FRANCE 4.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ FRANCE 4 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936763&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/FRANCE 5.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ FRANCE 5 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/FRANCE 5.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ FRANCE 5 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936766&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/STAR ACADEMY.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ STAR ACADEMY HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/STAR ACADEMY.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ STAR ACADEMY HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936770&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/6TER.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ 6TER HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/6TER.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ 6TER HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936773&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/M6.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ M6 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/M6.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ M6 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936776&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/M6 INTERNATIONAL.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ M6 INTERNATIONAL HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/M6 INTERNATIONAL.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ M6 INTERNATIONAL HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936778&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/TF1 SERIES-FILMS.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TF1 SERIES-FILMS HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/TF1 SERIES-FILMS.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TF1 SERIES-FILMS HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936780&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/TF1 SERIES-FILMS.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TF1 SERIES-FILMS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/TF1 SERIES-FILMS.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TF1 SERIES-FILMS
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936781&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/TFX.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TFX HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/TFX.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TFX HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936783&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/TFX.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TFX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/TFX.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TFX
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936784&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/RTL 9.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ RTL 9 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/RTL 9.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ RTL 9 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936786&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/TEVA.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TEVA HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/TEVA.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TEVA HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936789&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/TMC.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TMC HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/TMC.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TMC HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936792&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/TMC PLUS 1.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TMC PLUS 1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/TMC PLUS 1.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TMC PLUS 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936794&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/C8.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ C8 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/C8.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ C8 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936797&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/W9.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ W9 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/W9.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ W9 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936800&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/ARTE.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ ARTE HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/ARTE.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ ARTE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936803&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/NOVELAS TV.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NOVELAS TV HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/NOVELAS TV.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NOVELAS TV HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936806&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/NOVELAS TV.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NOVELAS TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/NOVELAS TV.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NOVELAS TV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936807&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/C STAR.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ C STAR HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/C STAR.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ C STAR HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936809&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/IDF 1.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ IDF 1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/IDF 1.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ IDF 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936812&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/OLYMPIA.png" group-title="┃FR┃ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ OLYMPIA HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ TÉLÉVISION DE BASE+/OLYMPIA.png" group-title="⍟FRⒼ TÉLÉVISION DE BASE+ by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ OLYMPIA HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936815&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/CANAL+ KIDS.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ KIDS HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/CANAL+ KIDS.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ KIDS HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941693&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/CANAL+ KIDS.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ KIDS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/CANAL+ KIDS.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ KIDS
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941694&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/DISNEY CHANNEL.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DISNEY CHANNEL HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/DISNEY CHANNEL.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DISNEY CHANNEL HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941696&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/DISNEY CHANNEL +1.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DISNEY CHANNEL +1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/DISNEY CHANNEL +1.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DISNEY CHANNEL +1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941698&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/DISNEY JUNIOR.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DISNEY JUNIOR HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/DISNEY JUNIOR.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DISNEY JUNIOR HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941700&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/NICKELODEON.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NICKELODEON  HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/NICKELODEON.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NICKELODEON  HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941702&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/NICKELODEON +1.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NICKELODEON +1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/NICKELODEON +1.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NICKELODEON +1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941704&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/NICKELODEON 4 TEEN.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NICKELODEON 4 TEEN HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/NICKELODEON 4 TEEN.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NICKELODEON 4 TEEN HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941710&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/NICKELODEON 4 TEEN.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NICKELODEON 4 TEEN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/NICKELODEON 4 TEEN.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NICKELODEON 4 TEEN
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941711&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/NICKELODEON JUNIOR.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NICKELODEON JUNIOR HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/NICKELODEON JUNIOR.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NICKELODEON JUNIOR HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941707&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/CARTOON NETWORK.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CARTOON NETWORK HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/CARTOON NETWORK.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CARTOON NETWORK HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941713&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/BOOMERANG.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BOOMERANG HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/BOOMERANG.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ BOOMERANG HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941717&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/BOOMERANG.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BOOMERANG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/BOOMERANG.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ BOOMERANG
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941718&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/CARTOONITO.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CARTOONITO HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/CARTOONITO.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CARTOONITO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941715&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/BABY TV.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BABY TV HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/BABY TV.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ BABY TV HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941719&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/TELETOON.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TELETOON  HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/TELETOON.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TELETOON  HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941728&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/TELETOON +1.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TELETOON +1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/TELETOON +1.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TELETOON +1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941731&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/TIJI.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TIJI HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/TIJI.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TIJI HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941725&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/CANAL J.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL J HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/CANAL J.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL J HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941738&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/BOING.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BOING HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/BOING.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ BOING HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941734&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/GULLI.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ GULLI HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/GULLI.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ GULLI HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941736&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/PIWI+.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PIWI+  HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/PIWI+.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PIWI+  HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941723&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/MANGAS.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ MANGAS HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/MANGAS.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ MANGAS HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941740&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/J-ONE.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ J-ONE HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/J-ONE.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ J-ONE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941746&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/GAME ONE.png" group-title="┃FR┃ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ GAME ONE HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR ANIMATION ENFANTS/GAME ONE.png" group-title="⍟FRⒼ ANIMATION ENFANTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ GAME ONE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941743&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png" group-title="┃FR┃ BEIN SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png" group-title="⍟FRⒼ BEIN SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ BEIN SPORTS 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941418&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃FR┃ BEIN SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 2.png" group-title="⍟FRⒼ BEIN SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ BEIN SPORTS 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941421&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 3.png" group-title="┃FR┃ BEIN SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 3.png" group-title="⍟FRⒼ BEIN SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ BEIN SPORTS 3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941424&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941480&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 1 SD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 1 SD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941490&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 2 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941481&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 2 SD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 2 SD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941491&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 3 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941482&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 3 SD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 3 SD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941492&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 4 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 4 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941483&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 4 SD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 4 SD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941493&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 5 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 5 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941484&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 5 SD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 5 SD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941494&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 6 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 6 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941485&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 6 SD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 6 SD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941495&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 7 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 7 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941486&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 7 SD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 7 SD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941496&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 8 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 8 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941487&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 8 SD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 8 SD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941497&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="┃FR┃ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 1 - 9 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 1/DAZN LIGUE 1.png" group-title="⍟FRⒼ DAZN LIGUE 1 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 1 - 9 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941488&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="┃FR┃ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 2 - 1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="⍟FRⒼ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 2 - 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941506&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="┃FR┃ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 2 - 2 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="⍟FRⒼ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 2 - 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941507&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="┃FR┃ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 2 - 3 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="⍟FRⒼ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 2 - 3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941508&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="┃FR┃ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 2 - 4 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="⍟FRⒼ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 2 - 4 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941509&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="┃FR┃ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 2 - 5 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="⍟FRⒼ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 2 - 5 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941510&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="┃FR┃ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 2 - 6 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="⍟FRⒼ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 2 - 6 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941511&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="┃FR┃ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 2 - 7 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="⍟FRⒼ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 2 - 7 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941512&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="┃FR┃ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN LIGUE 2 - 8 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN LIGUE 2/DAZN LIGUE 2.png" group-title="⍟FRⒼ DAZN LIGUE 2 by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN LIGUE 2 - 8 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941513&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN 1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941565&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN 2 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941566&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN 3 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN 3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941567&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN 4 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN 4 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941568&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZN 5 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZN 5 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941569&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941589&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 2 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941588&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 3 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941587&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 4 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 4 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941586&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 5 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 5 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941585&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 6 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 6 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941584&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 7 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 7 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941583&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 8 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 8 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941582&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 9 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 9 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941581&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 10 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 10 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941580&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 11 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 11 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941579&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 12 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 12 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941578&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 13 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 13 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941577&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 14 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 14 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941576&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 15 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 15 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941575&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 16 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 16 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941574&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 17 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 17 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941573&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 18 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 18 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941572&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 19 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 19 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941571&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="┃FR┃ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DAZEN EVENT 20 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DAZN PPV/DAZN PPV.png" group-title="⍟FRⒼ DAZN PPV by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DAZEN EVENT 20 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941570&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/MTV.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ MTV HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/MTV.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ MTV HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936938&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/E! ENTERTAINMENT.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ E! ENTERTAINMENT HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/E! ENTERTAINMENT.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ E! ENTERTAINMENT HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936932&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/E! ENTERTAINMENT.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ E! ENTERTAINMENT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/E! ENTERTAINMENT.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ E! ENTERTAINMENT
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936933&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/COMEDY CENTRAL.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ COMEDY CENTRAL HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/COMEDY CENTRAL.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ COMEDY CENTRAL HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936926&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/POLAR+.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ POLAR+ HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/POLAR+.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ POLAR+ HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936900&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/SERIE CLUB.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ SERIE CLUB HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/SERIE CLUB.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ SERIE CLUB HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936903&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/13EME RUE.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ 13EME RUE HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/13EME RUE.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ 13EME RUE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936906&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/SYFY.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ SYFY HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/SYFY.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ SYFY HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936909&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/TV BREIZH.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TV BREIZH HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/TV BREIZH.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TV BREIZH HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936912&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/NRJ 12.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NRJ 12 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/NRJ 12.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NRJ 12 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936915&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/WARNER TV.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ WARNER TV HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/WARNER TV.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ WARNER TV HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936935&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/AB1.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ AB1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/AB1.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ AB1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936941&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/AB3.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ AB3 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/AB3.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ AB3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936944&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/TV5 MONDE.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TV5 MONDE HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/TV5 MONDE.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TV5 MONDE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936947&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/BET.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ BET HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/BET.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ BET HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936951&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/NOLLYWOOD.png" group-title="┃FR┃ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NOLLYWOOD HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/⍟FRⒼ DIVERTISSEMENT/NOLLYWOOD.png" group-title="⍟FRⒼ DIVERTISSEMENT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NOLLYWOOD HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=936949&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CANAL+ DOCS.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ DOCS HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CANAL+ DOCS.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ DOCS HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941631&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CRIME DISTRICT.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CRIME DISTRICT HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CRIME DISTRICT.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CRIME DISTRICT HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941629&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NATIONAL GEO.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NATIONAL GEO HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NATIONAL GEO.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NATIONAL GEO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941639&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NAT GEO WILD.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NAT GEO WILD HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NAT GEO WILD.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NAT GEO WILD HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941642&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY CHANNEL.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY CHANNEL.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DISCOVERY CHANNEL HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941632&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY ID.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ DISCOVERY ID HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY ID.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ DISCOVERY ID HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941637&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/HISTOIRE.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ HISTOIRE HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/HISTOIRE.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ HISTOIRE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941645&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TOUTE L'HISTOIRE.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TOUTE L HISTOIRE HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TOUTE L'HISTOIRE.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TOUTE L HISTOIRE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941648&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TLC.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TLC HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TLC.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TLC HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941634&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TREK.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ TREK HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TREK.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ TREK HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941659&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLANETE+ HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLANETE+ HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941651&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ CRIME.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLANETE+ CRIME HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ CRIME.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLANETE+ CRIME HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941656&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ AVENTURE.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLANETE+ AVENTURE HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ AVENTURE.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLANETE+ AVENTURE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941654&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SCIENCE & VIE.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ SCIENCE & VIE HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SCIENCE & VIE.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ SCIENCE & VIE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941665&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/RMC DECOUVERTE.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ RMC DECOUVERTE HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/RMC DECOUVERTE.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ RMC DECOUVERTE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941668&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SEASONS.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ SEASONS HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SEASONS.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ SEASONS HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941662&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/USHUAIA.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ USHUAIA HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/USHUAIA.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ USHUAIA HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941671&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/ANIMAUX.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ ANIMAUX HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/ANIMAUX.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ ANIMAUX HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941674&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CHASSE & PECHE.png" group-title="┃FR┃ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CHASSE & PECHE HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CHASSE & PECHE.png" group-title="⍟FRⒼ DOCUMENTAIRES by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CHASSE & PECHE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941677&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE INFO HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE INFO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942021&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942020&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 2 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942019&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 3 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942018&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 4 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 4 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942017&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 5 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 5 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942016&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 6 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 6 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942015&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 7 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 7 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942014&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 8 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 8 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942013&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 9 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 9 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942012&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 10 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 10 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942011&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 11 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 11 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942010&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 12 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 12 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942009&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 13 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 13 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942008&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 14 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 14 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942007&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 15 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 15 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942006&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 16 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 16 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942005&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 17 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 17 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942004&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 18 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 18 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942003&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="┃FR┃ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ CANAL+ BOXOFFICE 19 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="⍟FRⒼ OD CANAL+ BOXOFFICE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ CANAL+ BOXOFFICE 19 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942002&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NETFLIX PREMIERE INFO HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="⍟FRⒼ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NETFLIX PREMIERE INFO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942043&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NETFLIX PREMIERE 1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="⍟FRⒼ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NETFLIX PREMIERE 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942042&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NETFLIX PREMIERE 2 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="⍟FRⒼ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NETFLIX PREMIERE 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942041&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NETFLIX PREMIERE 3 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="⍟FRⒼ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NETFLIX PREMIERE 3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942040&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NETFLIX PREMIERE 4 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="⍟FRⒼ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NETFLIX PREMIERE 4 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942039&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NETFLIX PREMIERE 5 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="⍟FRⒼ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NETFLIX PREMIERE 5 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942038&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NETFLIX PREMIERE 6 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="⍟FRⒼ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NETFLIX PREMIERE 6 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942037&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NETFLIX PREMIERE 7 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="⍟FRⒼ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NETFLIX PREMIERE 7 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942036&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NETFLIX PREMIERE 8 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="⍟FRⒼ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NETFLIX PREMIERE 8 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942035&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NETFLIX PREMIERE 9 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="⍟FRⒼ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NETFLIX PREMIERE 9 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942034&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NETFLIX PREMIERE 10 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="⍟FRⒼ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NETFLIX PREMIERE 10 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942033&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NETFLIX PREMIERE 11 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="⍟FRⒼ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NETFLIX PREMIERE 11 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942032&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NETFLIX PREMIERE 12 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="⍟FRⒼ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NETFLIX PREMIERE 12 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942031&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="┃FR┃ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ NETFLIX PREMIERE 13 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="⍟FRⒼ OD NETFLIX PREMIERE by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ NETFLIX PREMIERE 13 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942030&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY SUPER INFO HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY SUPER INFO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942062&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY SUPER 1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY SUPER 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942061&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY SUPER 2 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY SUPER 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942060&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY SUPER 3 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY SUPER 3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942059&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY SUPER 4 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY SUPER 4 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942058&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY SUPER 5 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY SUPER 5 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942057&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY SUPER 6 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY SUPER 6 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942056&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY BOX OFFICE HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY BOX OFFICE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942054&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY NETFLIX HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY NETFLIX HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942053&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY ACTION HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY ACTION HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942050&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY ACTION +1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY ACTION +1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942049&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY BEST OF HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY BEST OF HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942052&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY COMEDIE HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY COMEDIE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942048&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY EMOTION HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY EMOTION HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942046&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY HORREUR HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY HORREUR HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942047&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY COLLECTION HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY COLLECTION HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942051&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="┃FR┃ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ PLAY EXTRA HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="⍟FRⒼ OD PLAY SUPER by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ PLAY EXTRA HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=942055&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT.png" group-title="┃FR┃ RMC SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ RMC SPORT UHD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT.png" group-title="⍟FRⒼ RMC SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ RMC SPORT UHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941433&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT 1.png" group-title="┃FR┃ RMC SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ RMC SPORT 1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT 1.png" group-title="⍟FRⒼ RMC SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ RMC SPORT 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941435&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT 2.png" group-title="┃FR┃ RMC SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ RMC SPORT 2 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT 2.png" group-title="⍟FRⒼ RMC SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ RMC SPORT 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941437&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT LIVE 3.png" group-title="┃FR┃ RMC SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ RMC SPORT LIVE 3 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT LIVE 3.png" group-title="⍟FRⒼ RMC SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ RMC SPORT LIVE 3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941439&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT LIVE 4.png" group-title="┃FR┃ RMC SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ RMC SPORT LIVE 4 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR RMC SPORT/RMC SPORT LIVE 4.png" group-title="⍟FRⒼ RMC SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ RMC SPORT LIVE 4 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941441&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 1.png" group-title="┃FR┃ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ EUROSPORT 1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 1.png" group-title="⍟FRⒼ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ EUROSPORT 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941596&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 2.png" group-title="┃FR┃ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ EUROSPORT 2 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 2.png" group-title="⍟FRⒼ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ EUROSPORT 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941597&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/INFO SPORT+.png" group-title="┃FR┃ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ INFO SPORT+ HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/INFO SPORT+.png" group-title="⍟FRⒼ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ INFO SPORT+ HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941591&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/Equipe 21.png" group-title="┃FR┃ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ EQUIPE 21 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/Equipe 21.png" group-title="⍟FRⒼ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ EQUIPE 21 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941594&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/Equipe 21.png" group-title="┃FR┃ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ EQUIPE 21
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/Equipe 21.png" group-title="⍟FRⒼ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ EQUIPE 21
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941595&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EQUIDIA.png" group-title="┃FR┃ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ EQUIDIA HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EQUIDIA.png" group-title="⍟FRⒼ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ EQUIDIA HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941603&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/GOLF+.png" group-title="┃FR┃ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ GOLF+ HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/GOLF+.png" group-title="⍟FRⒼ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ GOLF+ HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941606&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/GOLF.png" group-title="┃FR┃ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ GOLF HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/GOLF.png" group-title="⍟FRⒼ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ GOLF HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941609&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 360.png" group-title="┃FR┃ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ EUROSPORT 360 1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 360.png" group-title="⍟FRⒼ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ EUROSPORT 360 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941610&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 360.png" group-title="┃FR┃ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ EUROSPORT 360 2 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 360.png" group-title="⍟FRⒼ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ EUROSPORT 360 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941611&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 360.png" group-title="┃FR┃ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ EUROSPORT 360 3 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 360.png" group-title="⍟FRⒼ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ EUROSPORT 360 3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941612&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 360.png" group-title="┃FR┃ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ EUROSPORT 360 4 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 360.png" group-title="⍟FRⒼ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ EUROSPORT 360 4 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=941613&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 360.png" group-title="┃FR┃ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃FR┃ EUROSPORT 360 5 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 360.png" group-title="⍟FRⒼ SPORTS by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",⍟FRⒼ EUROSPORT 360 5 HD
