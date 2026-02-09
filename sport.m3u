@@ -1,0 +1,340 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/AR- THMANYAH/THMANYAH.png" group-title="AR- THMANYAH by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- THMANYAH 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=1264556&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/AR- THMANYAH/THMANYAH.png" group-title="AR- THMANYAH by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- THMANYAH 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=1264557&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/AR- THMANYAH/THMANYAH.png" group-title="AR- THMANYAH by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- THMANYAH 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=1303871&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="AR- STARZPLAY SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- STARZPLAY AD SPORTS 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=712414&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="AR- STARZPLAY SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- STARZPLAY AD SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=712415&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="AR- STARZPLAY SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- STARZPLAY AD SPORTS 2 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=712416&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="AR- STARZPLAY SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- STARZPLAY AD SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=712417&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="AR- STARZPLAY SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- STARZPLAY AD SPORTS PREMIUM 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=712419&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="AR- STARZPLAY SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- STARZPLAY AD SPORTS PREMIUM 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=712421&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="AR- STARZPLAY SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- STARZPLAY AD SPORTS ASIA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=712423&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="AR- STARZPLAY SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- STARZPLAY AD SPORTS ASIA 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=712425&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="AR- STARZPLAY SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- STARZPLAY SPORTS UFC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=712427&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="AR- STARZPLAY SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- STARZPLAY SPORTS YAS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=712429&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="AR- STARZPLAY SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- STARZPLAY SPORTS CRICLIFE 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=712431&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="AR- STARZPLAY SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- STARZPLAY SPORTS CRICLIFE 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=712433&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="AR- STARZPLAY SPORT by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- STARZPLAY SPORTS CRICLIFE 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=712435&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 1 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=242255&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 1 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985161&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 2 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=242254&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 2 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985162&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 3 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=242253&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 3 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985163&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 4 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=242252&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 4 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985164&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 5 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=242251&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 5 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985165&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 6 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=242250&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 6 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985166&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 7 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=242249&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 7 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985167&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 8 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=242248&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 8 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985168&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 9 HD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=242247&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="AR- BEIN SPORTS HD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 9 HD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985169&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 1 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=798828&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 1 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985188&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 2 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=798829&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 2 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985189&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 3 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=798830&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 3 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985190&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 4 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=798831&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 4 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985191&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 5 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=798833&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 5 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985192&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 6 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=798834&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 6 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985193&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 7 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=798835&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 7 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985194&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 8 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=798837&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 8 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=985195&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="AR- BEIN SPORTS SD by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- BEIN SPORTS 9 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=798838&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR- HBO | اتش بي او by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- HBO ARABIC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672134&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR- HBO | اتش بي او by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- HBO ASIAN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672133&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR- HBO | اتش بي او by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- HBO BOLLYWOOD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672132&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR- HBO | اتش بي او by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- HBO TOP TEN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672140&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR- HBO | اتش بي او by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- HBO NOW MOVIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672139&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR- HBO | اتش بي او by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- HBO ACTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672138&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR- HBO | اتش بي او by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- HBO CRIME HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672136&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR- HBO | اتش بي او by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- HBO MAX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672135&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR- HBO | اتش بي او by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- HBO ANIMATION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672131&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR- HBO | اتش بي او by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- HBO HISTORY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672137&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/History_(2021).svg.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ HISTORY CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368972&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/Nick_Jr._logo_2023_(outline).svg.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ NICK JR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368971&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/ALYWM-logo.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ AL YAWM HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368970&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/Discovery_Science_2017_Logo.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ DISCOVERY SCIENCE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368969&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/Nickelodeon_2023_logo_(outline).svg.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ NICKELODEON HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368968&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/The_Living_Channel.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ LIVING HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368967&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/movie.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ MOVIES PREMIERE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368966&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/actiontv.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ ACTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368965&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/seriesfirst.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ SERIES FIRST HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368964&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/yahalaoula.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ YAHALA AFLAM HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368963&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/yahalaoula.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ YAHALA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368962&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/SHOWCASE HD.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ SHOWCASE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368961&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/MOVIES PREMIER +2.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ MOVIES PREMIERE +2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368960&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/fann.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ FANN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368959&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/alsafwa.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ AL SAFWA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368958&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/Star_Movies_2023.svg.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ STAR MOVIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368957&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/NEWS HD.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ NEWS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368956&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/Tlc_logo_discovery.svg.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ TLC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368955&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/MOVIES HOLLYWOOD HD.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ MOVIES HOLLYWOOD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368954&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/CINEMA 2 HD.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368953&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/CINEMA 2 HD.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ CINEMA 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368952&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/NOW_Music_TV_Logo.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ MUSIC NOW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368951&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Disney_Junior_Logo_2020.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ DISNEY JUNIOR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368950&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/H2_channel_logo.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ H2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368949&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/NAT GEO HD.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ NAT GEO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368948&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/NAT GEO WILD HD.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ NAT GEO WILD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368947&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/DISCOVERY CHANNEL HD.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ DISCOVERY CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368946&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/DISCOVERY IDX HD.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ DISCOVERY IDX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368945&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Disney_Channel_2022.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ DISNEY CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368944&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/MOVIES DISNEY HD.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ MOVIES DISNEY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368943&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/osnenigma.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ ENIGMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368942&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/mezzo.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ MEZZE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368941&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/OSN_Movies_Kids.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ MOVIES KIDS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368940&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/Osn-movies-Comedy.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ COMEDY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368939&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/yahalaoula.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ YAHALA BIL ARABI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368938&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/OSN/Crime_and_Investigation_logo.png" group-title="AR- OSN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",┃OSN┃ CRIME & INVESTIGATION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=368937&extension=ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672396&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP ACTION HD (EN)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672395&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP COMEDY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672394&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP MARVEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672393&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP TURKI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672392&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP ASIAN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672391&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP BOLLYWOOD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672390&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP WRESTLING HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672389&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP ANIMATION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672388&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP ANIMATION HD (EN)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672387&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP CLIP HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672386&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP 3D
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672385&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP الثقافية
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672384&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP AL OULA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672383&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP أصلي و حصري
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672382&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP AFLAM
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672381&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP AFLAM 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672380&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP AFLAM COMEDY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672379&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP MOVIES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672378&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP Movies 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672377&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP Movies Action
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672376&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP Movies Thriller
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672375&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP CRIME
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672374&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP FEEL GOOD MOVIES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672373&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP BOLLYWOOD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672372&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP BOLLYWOOD CLASSIC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672371&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP AL MASRAH
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672370&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP MASRAH MASR
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672369&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP MASRAH AL SAUDI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672368&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",? 2024 PLAYERS CHAMPIONSHIP 11 UK TUE 11 JUN 12:00PM ET TUE 11 JUN 7:00AM
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672367&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP BAB AL HARA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672366&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP MARAYA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672365&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP OMAR
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672364&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP TILL DEATH
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672363&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP AROUS BEIRUT
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672362&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP STILETTO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672361&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP AL LEABA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672360&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",? 2024 NEO.BET EUROPEAN DARTS OPEN DAY TWO UK SAT 22 JUN 12:00PM ET SAT 22 JUN 7:00AM
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672359&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP AL KABEER AWI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672358&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP AL MEERATH
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672357&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP RAGEL WE SET SETTAT
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672356&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP TASH
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672355&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP TASH MATASH
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672354&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP SELFIE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672353&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP WIFI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672352&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP AL ASOUF
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672351&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP FARID
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672350&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP OTROQ BABI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672349&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP AL HUFRA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672348&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP TOP CHEF 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672347&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP KOSAI KHOULI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672346&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP AL ZAEEM
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672345&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP AL OSTOURA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672344&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP RAMEZ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672343&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP ELHAM ALI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672342&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP SOUAD ABDULLAH
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672341&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP HUDA HUSSIEN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672340&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP NASER Al QASSABY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672339&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP HASSINO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672338&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP AL HISN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672337&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP TOP CHEF
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672336&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP Top-Gear
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672335&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP 25 SOAL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672334&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP FASHION TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672333&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP NATURE TIME
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672332&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP PLATINUM RECORDS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672331&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP MOHAMMED ABDOU
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672330&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP RASHED ALMAJED
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672329&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP ABD ULMAJEED ABDULLAH
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672328&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP WWE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672327&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP ATFAAL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672326&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP SMURF TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672325&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="AR- SHAHID VIP | شاهد VIP by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR- SHAHID VIP GAGS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1C:0C:C6&stream=672324&extension=ts
